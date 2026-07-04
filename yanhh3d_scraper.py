@@ -3,7 +3,6 @@ import re
 import sys
 import time
 import argparse
-from bs4 import BeautifulSoup
 import os
 
 def fetch_html(url):
