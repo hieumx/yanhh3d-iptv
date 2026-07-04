@@ -163,6 +163,12 @@ def main():
                     if m3u8_url:
                         title = f"[{movie_title}] Tập {ep_num}"
                         f.write(f'#EXTINF:-1 group-title="{primary_genre}", {title}\n')
+                        f.write(f'#EXTVLCOPT:http-referrer=https://yanhh3d.im/\n')
+                        f.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
+                        
+                        if '|' not in m3u8_url:
+                            m3u8_url += '|Referer=https://yanhh3d.im/&User-Agent=Mozilla/5.0'
+                            
                         f.write(f"{m3u8_url}\n")
 
     print(f"\nDone! Playlist saved to {args.output}")
