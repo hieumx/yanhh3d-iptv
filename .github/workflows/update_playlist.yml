@@ -22,7 +22,7 @@ jobs:
         python-version: '3.10'
 
     - name: Run Scraper
-      run: python yanhh3d_scraper.py -f movies.txt -o playlist.m3u
+      run: python -u yanhh3d_scraper.py -f movies.txt -o playlist.m3u
 
     - name: Commit and Push
       run: |
