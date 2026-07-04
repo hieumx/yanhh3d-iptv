@@ -119,22 +119,22 @@ def main():
             print(f"Title: {movie_title} | Genre: {primary_genre}".encode('utf-8', 'ignore').decode('utf-8', 'ignore'))
             print(f"Found {len(ep_links)} episodes.")
             
-            for ep_link in ep_links:
+            import concurrent.futures
+            
+            def process_episode(ep_link):
                 ep_num_match = re.search(r'tap-(\d+)', ep_link)
                 ep_num = ep_num_match.group(1) if ep_num_match else "Unknown"
+                m3u8 = get_m3u8_for_episode(ep_link)
+                return ep_num, m3u8
                 
-                print(f"  Fetching m3u8 for Tap {ep_num}...", end="", flush=True)
-                m3u8_url = get_m3u8_for_episode(ep_link)
+            with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+                results = list(executor.map(process_episode, ep_links))
                 
-                if m3u8_url:
-                    print(" OK")
-                    title = f"[{movie_title}] Tập {ep_num}"
-                    f.write(f'#EXTINF:-1 group-title="{primary_genre}", {title}\n')
-                    f.write(f"{m3u8_url}\n")
-                else:
-                    print(" Failed")
-                    
-                time.sleep(0.5)
+                for ep_num, m3u8_url in results:
+                    if m3u8_url:
+                        title = f"[{movie_title}] Tập {ep_num}"
+                        f.write(f'#EXTINF:-1 group-title="{primary_genre}", {title}\n')
+                        f.write(f"{m3u8_url}\n")
 
     print(f"\nDone! Playlist saved to {args.output}")
 
