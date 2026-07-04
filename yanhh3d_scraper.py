@@ -17,6 +17,29 @@ def fetch_html(url):
         print(f"Error fetching {url}: {e}")
         return ""
 
+def fetch_latest_movies(base_url="https://yanhh3d.im", limit=40):
+    print(f"Fetching latest movies from homepage {base_url}...")
+    html = fetch_html(base_url)
+    if not html:
+        return []
+        
+    all_links = re.findall(rf'href="({base_url}/[a-z0-9-]+)"', html)
+    bad_keywords = ['the-loai', 'quoc-gia', 'danh-sach', 'nam-phat-hanh', 'login', 'register', 'hoan-thanh', 'hoat-hinh-4k', 'hoat-hinh-2d', 'hoat-hinh-3d', 'dang-chieu', 'phim-le', 'phim-bo', 'ova', 'thuyet-minh', 'vietsub', 'moi-cap-nhat', 'loc-phim']
+
+    movies = []
+    seen = set()
+    for link in all_links:
+        if link in seen:
+            continue
+        if any(bad in link for bad in bad_keywords):
+            continue
+        movies.append(link)
+        seen.add(link)
+        if len(movies) >= limit:
+            break
+            
+    return movies
+
 def extract_movie_info(url):
     html = fetch_html(url)
     if not html:
@@ -103,6 +126,12 @@ def main():
                 urls.extend([line.strip() for line in f if line.strip() and not line.startswith('#')])
         except Exception as e:
             print(f"Error reading file {args.file}: {e}")
+            
+    # Auto fetch top 40 movies from homepage
+    latest_movies = fetch_latest_movies()
+    for m in latest_movies:
+        if m not in urls:
+            urls.append(m)
             
     if not urls:
         print("No URLs found.")
