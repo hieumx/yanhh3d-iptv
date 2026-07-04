@@ -1,0 +1,34 @@
+name: Update IPTV Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Chạy mỗi 6 tiếng
+  workflow_dispatch: # Cho phép chạy thủ công
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Run Scraper
+      run: python yanhh3d_scraper.py -f movies.txt -o playlist.m3u
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add playlist.m3u
+        # Commit if there are changes
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update IPTV playlist"
+        git push
