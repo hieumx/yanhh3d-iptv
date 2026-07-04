@@ -97,20 +97,53 @@ def get_m3u8_for_episode(ep_url):
     html = fetch_html(ep_url)
     sources = re.findall(r'<a[^>]+data-src="([^"]+)"[^>]*>([^<]+)</a>', html)
     
-    m3u8_links = {}
+    best_src = None
+    best_q = -1
+    
     for src, label in sources:
-        if '.m3u8' in src or 'play-fb' in src or 'abyssplayer' in src:
-            m3u8_links[label.strip()] = src
-            
-    for q in ['4K', '4K-', '1080', '1080-', 'HD', 'Link1']:
-        if q in m3u8_links and '.m3u8' in m3u8_links[q]:
-            return m3u8_links[q]
-            
-    any_m3u8 = re.search(r'https?://[^"\'\s]+\.m3u8[^"\'\s]*', html)
-    if any_m3u8:
-        return any_m3u8.group(0)
+        q_score = 0
+        if '4K' in label: q_score = 4
+        elif '1080' in label: q_score = 3
+        elif 'HD' in label: q_score = 2
+        elif 'Link' in label: q_score = 1
         
-    return None
+        if q_score > best_q:
+            best_q = q_score
+            best_src = src
+            
+    if not best_src:
+        any_m3u8 = re.search(r'https?://[^"\'\s]+\.m3u8[^"\'\s]*', html)
+        if any_m3u8:
+            return any_m3u8.group(0)
+        return None
+
+    # Resolve iframe player HTML
+    player_html = fetch_html(best_src)
+    if not player_html:
+        return best_src
+        
+    if '#EXTM3U' in player_html:
+        return best_src # It is a direct stream
+        
+    obf_match = re.search(r'data-obf="([^"]+)"', player_html)
+    if obf_match:
+        import base64
+        import json
+        obf_data = obf_match.group(1)
+        try:
+            obf_data += "=" * ((4 - len(obf_data) % 4) % 4)
+            decoded_str = base64.b64decode(obf_data).decode('utf-8')
+            data = json.loads(decoded_str)
+            if 'pU' in data:
+                return data['pU']
+            elif 'sU' in data:
+                return data['sU']
+            elif 'file' in data:
+                return data['file']
+        except Exception:
+            pass
+            
+    return best_src
 
 def main():
     parser = argparse.ArgumentParser(description="YanHH3D to IPTV M3U Playlist Generator")
