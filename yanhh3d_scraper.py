@@ -23,11 +23,11 @@ def save_cache():
     except Exception as e:
         print(f"Error saving cache: {e}")
 
-def fetch_html(url):
-    req = urllib.request.Request(
-        url, 
-        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-    )
+def fetch_html(url, referer=None):
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    if referer:
+        headers['Referer'] = referer
+    req = urllib.request.Request(url, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=15) as response:
             return response.read().decode('utf-8', errors='ignore')
@@ -114,7 +114,9 @@ def extract_movie_info(url):
 def get_m3u8_for_episode(ep_url):
     global m3u8_cache
     if ep_url in m3u8_cache:
-        return m3u8_cache[ep_url]
+        cached = m3u8_cache[ep_url]
+        if 'streamc.xyz' not in cached and '|' not in cached:
+            return cached
         
     html = fetch_html(ep_url)
     if not html:
@@ -144,13 +146,19 @@ def get_m3u8_for_episode(ep_url):
         return None
 
     # Resolve iframe player HTML
-    player_html = fetch_html(best_src)
+    player_html = fetch_html(best_src, referer=ep_url)
     if not player_html:
         return best_src
         
     if '#EXTM3U' in player_html:
         m3u8_cache[ep_url] = best_src
         return best_src # It is a direct stream
+        
+    m3u8_match = re.search(r'["\'](https?://[^"\']+\.m3u8(?:\?[^"\']+)?)["\']', player_html)
+    if m3u8_match:
+        m3u8_url = m3u8_match.group(1)
+        m3u8_cache[ep_url] = m3u8_url
+        return m3u8_url
         
     obf_match = re.search(r'data-obf="([^"]+)"', player_html)
     if obf_match:
@@ -224,8 +232,8 @@ def main():
                         f.write(f'#EXTVLCOPT:http-referrer=https://yanhh3d.im/\n')
                         f.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
                         
-                        if '|' not in m3u8_url:
-                            m3u8_url += '|Referer=https://yanhh3d.im/&User-Agent=Mozilla/5.0'
+                        if '|' in m3u8_url:
+                            m3u8_url = m3u8_url.split('|')[0]
                             
                         f.write(f"{m3u8_url}\n")
                         
