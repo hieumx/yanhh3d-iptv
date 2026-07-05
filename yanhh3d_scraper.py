@@ -218,8 +218,9 @@ def main():
                 
                 for ep_num, m3u8_url in results:
                     if m3u8_url:
-                        title = f"[{movie_title}] Tập {ep_num}"
-                        f.write(f'#EXTINF:-1 group-title="{primary_genre}", {title}\n')
+                        # Dùng Tên Phim làm thư mục để gom các tập vào 1 chỗ
+                        title = f"Tập {ep_num}"
+                        f.write(f'#EXTINF:-1 group-title="{movie_title} ({primary_genre})", {title}\n')
                         f.write(f'#EXTVLCOPT:http-referrer=https://yanhh3d.im/\n')
                         f.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
                         
