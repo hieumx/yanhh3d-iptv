@@ -4,6 +4,24 @@ import sys
 import time
 import argparse
 import os
+import json
+import base64
+
+CACHE_FILE = 'cache.json'
+m3u8_cache = {}
+if os.path.exists(CACHE_FILE):
+    try:
+        with open(CACHE_FILE, 'r', encoding='utf-8') as f:
+            m3u8_cache = json.load(f)
+    except Exception:
+        m3u8_cache = {}
+
+def save_cache():
+    try:
+        with open(CACHE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(m3u8_cache, f, indent=4)
+    except Exception as e:
+        print(f"Error saving cache: {e}")
 
 def fetch_html(url):
     req = urllib.request.Request(
@@ -94,7 +112,14 @@ def extract_movie_info(url):
     return movie_slug, movie_title, primary_genre, sorted_eps
 
 def get_m3u8_for_episode(ep_url):
+    global m3u8_cache
+    if ep_url in m3u8_cache:
+        return m3u8_cache[ep_url]
+        
     html = fetch_html(ep_url)
+    if not html:
+        return None
+        
     sources = re.findall(r'<a[^>]+data-src="([^"]+)"[^>]*>([^<]+)</a>', html)
     
     best_src = None
@@ -114,6 +139,7 @@ def get_m3u8_for_episode(ep_url):
     if not best_src:
         any_m3u8 = re.search(r'https?://[^"\'\s]+\.m3u8[^"\'\s]*', html)
         if any_m3u8:
+            m3u8_cache[ep_url] = any_m3u8.group(0)
             return any_m3u8.group(0)
         return None
 
@@ -123,26 +149,24 @@ def get_m3u8_for_episode(ep_url):
         return best_src
         
     if '#EXTM3U' in player_html:
+        m3u8_cache[ep_url] = best_src
         return best_src # It is a direct stream
         
     obf_match = re.search(r'data-obf="([^"]+)"', player_html)
     if obf_match:
-        import base64
-        import json
         obf_data = obf_match.group(1)
         try:
             obf_data += "=" * ((4 - len(obf_data) % 4) % 4)
             decoded_str = base64.b64decode(obf_data).decode('utf-8')
             data = json.loads(decoded_str)
-            if 'pU' in data:
-                return data['pU']
-            elif 'sU' in data:
-                return data['sU']
-            elif 'file' in data:
-                return data['file']
+            for k in ['pU', 'sU', 'file']:
+                if k in data:
+                    m3u8_cache[ep_url] = data[k]
+                    return data[k]
         except Exception:
             pass
             
+    m3u8_cache[ep_url] = best_src
     return best_src
 
 def main():
@@ -189,7 +213,7 @@ def main():
                 m3u8 = get_m3u8_for_episode(ep_link)
                 return ep_num, m3u8
                 
-            with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
                 results = list(executor.map(process_episode, ep_links))
                 
                 for ep_num, m3u8_url in results:
@@ -203,7 +227,8 @@ def main():
                             m3u8_url += '|Referer=https://yanhh3d.im/&User-Agent=Mozilla/5.0'
                             
                         f.write(f"{m3u8_url}\n")
-
+                        
+    save_cache()
     print(f"\nDone! Playlist saved to {args.output}")
 
 if __name__ == "__main__":
