@@ -41,7 +41,7 @@ def fetch_latest_movies(base_url="https://yanhh3d.im", limit=40):
     if not html:
         return []
         
-    all_links = re.findall(rf'href="({base_url}/[a-z0-9-]+)"', html)
+    all_links = re.findall(r'href="(https?://yanhh3d\.[a-z]+/[a-z0-9-]+)"', html)
     bad_keywords = ['the-loai', 'quoc-gia', 'danh-sach', 'nam-phat-hanh', 'login', 'register', 'hoan-thanh', 'hoat-hinh-4k', 'hoat-hinh-2d', 'hoat-hinh-3d', 'dang-chieu', 'phim-le', 'phim-bo', 'ova', 'thuyet-minh', 'vietsub', 'moi-cap-nhat', 'loc-phim']
 
     movies = []
