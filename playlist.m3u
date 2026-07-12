@@ -3694,7 +3694,11 @@ https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/4c191fad-7644-4f2f-b1e4-9
 #EXTINF:-1 group-title="Huyền Huyễn;Mục Thần Ký", Tập 91
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1156057344264657%2F&amp;show_text=true&amp;width=560&amp;t=0
+https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/00c4148e-6386-4805-b893-4970378fde0a.m3u8/stream-plain?t=80ad6fb3a6999abe.1783844508
+#EXTINF:-1 group-title="Huyền Huyễn;Mục Thần Ký", Tập 92
+#EXTVLCOPT:http-referrer=https://yanhh3d.im/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/680aa91f-a1c4-4d79-a52c-af2fd503a1e9.m3u8/stream-plain?t=95d77d5659436cbe.1783844508
 #EXTINF:-1 group-title="Huyền Huyễn;Thôn Phệ Tinh Không", Tập 1
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -16109,10 +16113,22 @@ https://vip.opstream90.com/20260705/36141_58393577/index.m3u8
 https://vip.opstream90.com/20260705/36142_04e7a0ec/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Dị Nhân '97 (Phần 2)", Tập 3
 https://vip.opstream90.com/20260705/36143_88447d3a/index.m3u8
+#EXTINF:-1 group-title="Hình Sự;Power Book III: Raising Kanan (Phần 5)", Tập 1
+https://vip.opstream10.com/20260617/33930_b3794095/index.m3u8
+#EXTINF:-1 group-title="Hình Sự;Power Book III: Raising Kanan (Phần 5)", Tập 2
+https://vip.opstream10.com/20260621/33937_fbdbd0b2/index.m3u8
+#EXTINF:-1 group-title="Hình Sự;Power Book III: Raising Kanan (Phần 5)", Tập 3
+https://vip.opstream10.com/20260627/33953_49edbffc/index.m3u8
+#EXTINF:-1 group-title="Hình Sự;Power Book III: Raising Kanan (Phần 5)", Tập 4
+https://vip.opstream10.com/20260705/33972_903e3d25/index.m3u8
+#EXTINF:-1 group-title="Hình Sự;Power Book III: Raising Kanan (Phần 5)", Tập 5
+https://vip.opstream10.com/20260712/33988_d53747cc/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Bóng Ma Báo Thù", Tập 1
 https://vip.opstream10.com/20260709/33983_33108382/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Bóng Ma Báo Thù", Tập 2
 https://vip.opstream10.com/20260711/33986_5cc6cf88/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Bóng Ma Báo Thù", Tập 3
+https://vip.opstream10.com/20260712/33987_7f3d33f3/index.m3u8
 #EXTINF:-1 group-title="Viễn Tưởng;Góc Tối Nhân Bản", Tập 1
 https://vip.opstream10.com/20260623/33944_4dee181b/index.m3u8
 #EXTINF:-1 group-title="Viễn Tưởng;Góc Tối Nhân Bản", Tập 2
@@ -17625,13 +17641,3 @@ https://vip.opstream90.com/20260707/36306_e395ecb7/index.m3u8
 https://vip.opstream90.com/20260707/36307_8fc133b1/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Vĩnh Sinh (Phần 5)", Tập 26
 https://vip.opstream90.com/20260707/36308_c12080d6/index.m3u8
-#EXTINF:-1 group-title="Hành Động;100 Ngày Trở Thành Vua", Tập 1
-https://vip.opstream90.com/20260707/36298_9bb0b699/index.m3u8
-#EXTINF:-1 group-title="Hành Động;100 Ngày Trở Thành Vua", Tập 2
-https://vip.opstream90.com/20260707/36299_a743ba4d/index.m3u8
-#EXTINF:-1 group-title="Hành Động;100 Ngày Trở Thành Vua", Tập 3
-https://vip.opstream90.com/20260707/36300_c60ee8eb/index.m3u8
-#EXTINF:-1 group-title="Hành Động;100 Ngày Trở Thành Vua", Tập 4
-https://vip.opstream90.com/20260707/36301_263253aa/index.m3u8
-#EXTINF:-1 group-title="Hành Động;100 Ngày Trở Thành Vua", Tập 5
-https://vip.opstream90.com/20260707/36302_115b478f/index.m3u8
