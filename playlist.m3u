@@ -6227,6 +6227,10 @@ https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/6f94f467-b816-48dc-afdf-5
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/c223621b-3270-4999-a2b2-6888dc2faf59.m3u8/stream-plain?t=e6fb4138401c138c.1784642268
+#EXTINF:-1 group-title="Huyền Huyễn;Người Trên Vạn Người", Tập 14
+#EXTVLCOPT:http-referrer=https://yanhh3d.im/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://scontent-sin2-7-xx.fbcdn.cloud/o2/v/t2/f2/m366/0e780175-5c4f-4be3-8eeb-9ae47e6c073e.m3u8/stream-plain?t=fd50afd1271d9419.1784662060
 #EXTINF:-1 group-title="Huyền Huyễn;Nhất Niệm Vĩnh Hằng [Full]", Tập 1
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -15277,6 +15281,30 @@ https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8
 https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Báo Thù", Tập Tập 07
 https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 01
+https://v7.kkphimplayer7.com/20260721/2b2ci3oh/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 02
+https://v7.kkphimplayer7.com/20260720/kcHVXRd6/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 03
+https://v7.kkphimplayer7.com/20260721/pYkoPM6W/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 04
+https://v7.kkphimplayer7.com/20260721/ftcOzLiG/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 05
+https://v7.kkphimplayer7.com/20260721/IEh4gi9X/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 06
+https://v7.kkphimplayer7.com/20260721/YMD7kFUW/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 07
+https://v7.kkphimplayer7.com/20260721/Av8q4vWM/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 08
+https://v7.kkphimplayer7.com/20260721/yGk785yZ/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 09
+https://v7.kkphimplayer7.com/20260721/KiqhuPEc/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 10
+https://v7.kkphimplayer7.com/20260721/QUkKooGE/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 11
+https://v7.kkphimplayer7.com/20260721/eqtZUBsn/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;GTO: Thầy Giáo Vĩ Đại Onizuka (Bản 1998)", Tập Tập 12
+https://v7.kkphimplayer7.com/20260721/SGay69rJ/index.m3u8
 #EXTINF:-1 group-title="Bí Ẩn;Bí Mật Cuối Cùng", Tập Tập 01
 https://v7.kkphimplayer7.com/20260721/C2bQ8Ybd/index.m3u8
 #EXTINF:-1 group-title="Bí Ẩn;Bí Mật Cuối Cùng", Tập Tập 02
@@ -16705,44 +16733,6 @@ https://v7.kkphimplayer7.com/20260714/XxOunP88/index.m3u8
 https://v7.kkphimplayer7.com/20260718/lLK8ZDye/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Vạn Giới Độc Tôn", Tập Tập 467
 https://v7.kkphimplayer7.com/20260721/jjTEXA5W/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 01
-https://v7.kkphimplayer7.com/20260715/oLmx1hN6/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 02
-https://v7.kkphimplayer7.com/20260715/p1zXt5uZ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 03
-https://v7.kkphimplayer7.com/20260715/S5VKw6gM/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 04
-https://v7.kkphimplayer7.com/20260715/pDULhlQn/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 05
-https://v7.kkphimplayer7.com/20260716/eNYelXuD/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 06
-https://v7.kkphimplayer7.com/20260716/Xny1ktNI/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 07
-https://v7.kkphimplayer7.com/20260717/Nk8quR8Z/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 08
-https://v7.kkphimplayer7.com/20260717/pP49wE0V/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 09
-https://v7.kkphimplayer7.com/20260717/yGtW0lBc/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 10
-https://v7.kkphimplayer7.com/20260717/bKRIFCu1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 11
-https://v7.kkphimplayer7.com/20260717/YP1wFT8U/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 12
-https://v7.kkphimplayer7.com/20260717/0RNZozxV/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 13
-https://v7.kkphimplayer7.com/20260718/fMJ6SZG7/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 14
-https://v7.kkphimplayer7.com/20260718/rynF3BGC/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 15
-https://v7.kkphimplayer7.com/20260718/sG8mS0hy/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 16
-https://v7.kkphimplayer7.com/20260718/WU83xla3/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 17
-https://v7.kkphimplayer7.com/20260719/6huEBOP7/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 18
-https://v7.kkphimplayer7.com/20260720/2qUta9Y7/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tôi Là Nhậm Phi Phàm", Tập Tập 19
-https://v7.kkphimplayer7.com/20260721/MuaDWASi/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Dị Nhân '97 (Phần 2)", Tập 1
 https://vip.opstream90.com/20260705/36141_58393577/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Dị Nhân '97 (Phần 2)", Tập 2
