@@ -3026,7 +3026,7 @@ https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/800478b0-b18b-4df5-84a4-ffae1
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 95
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/31d7c0fc-695b-4f73-a2b2-742872689955.m3u8
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/fd8f94ee-e007-4534-bd2e-353f103f2617.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 96
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3086,7 +3086,7 @@ https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/385ee34d-ba5c-49ab-8a06-84312
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 110
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/40a851c5-1ff8-46ff-9e6e-35c08ddb5214.m3u8
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/c00f970e-7881-4591-aa11-c3e8b7946953.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 111
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -15445,6 +15445,74 @@ https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8
 https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Báo Thù", Tập Tập 07
 https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8
+#EXTINF:-1 group-title="Hài Hước;Trường Học Uy Long II", Tập Full
+https://v7.kkphimplayer7.com/20260712/P2hY6wGD/index.m3u8
+#EXTINF:-1 group-title="Hài Hước;Trường Học Uy Long II", Tập Full
+https://v7.kkphimplayer7.com/20260712/BSmHB7Td/index.m3u8
+#EXTINF:-1 group-title="Bí Ẩn;Trường Học Uy Long I", Tập Full
+https://v7.kkphimplayer7.com/20260712/A7VmyCDR/index.m3u8
+#EXTINF:-1 group-title="Bí Ẩn;Trường Học Uy Long I", Tập Full
+https://v7.kkphimplayer7.com/20260712/gnct8E69/index.m3u8
+#EXTINF:-1 group-title="Chiến Tranh;1941", Tập Full
+https://v7.kkphimplayer7.com/20260724/7AwplKB1/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;72 GIỜ", Tập Full
+https://v7.kkphimplayer7.com/20260724/AQD91Jcu/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Niềm Tin Vô Thực", Tập Full
+https://v7.kkphimplayer7.com/20260724/h7fRouoc/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 01
+https://v7.kkphimplayer7.com/20260626/XDh302cJ/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 02
+https://v7.kkphimplayer7.com/20260627/BhTG32Dy/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 03
+https://v7.kkphimplayer7.com/20260703/csWWxkWL/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 04
+https://v7.kkphimplayer7.com/20260704/EnTnmvMI/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 05
+https://v7.kkphimplayer7.com/20260710/TPUySCJa/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 06
+https://v7.kkphimplayer7.com/20260711/x2Eya2cu/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 07
+https://v7.kkphimplayer7.com/20260717/5VkCaX2Q/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 08
+https://v7.kkphimplayer7.com/20260718/7mTfh7DV/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 09
+https://v7.kkphimplayer7.com/20260724/dMYoRbu5/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 01
+https://v7.kkphimplayer7.com/20260704/XzFs7bkn/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 02
+https://v7.kkphimplayer7.com/20260704/2yeA0pgY/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 03
+https://v7.kkphimplayer7.com/20260704/X3g2H2YE/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 04
+https://v7.kkphimplayer7.com/20260706/qzJuQ2mA/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 05
+https://v7.kkphimplayer7.com/20260712/TuwyAYDv/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 06
+https://v7.kkphimplayer7.com/20260712/GgOclBP0/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 07
+https://v7.kkphimplayer7.com/20260717/47BRqcV1/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Đặc Vụ Kim Tái Khởi Động", Tập Tập 08
+https://v7.kkphimplayer7.com/20260724/4Skq9Qtj/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 01
+https://v7.kkphimplayer7.com/20260712/Rtwbd8Vo/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 02
+https://v7.kkphimplayer7.com/20260712/t6XoDCRV/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 03
+https://v7.kkphimplayer7.com/20260712/4b05ymKq/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 04
+https://v7.kkphimplayer7.com/20260712/IJEzXZ2N/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 05
+https://v7.kkphimplayer7.com/20260712/YIX8E8Cq/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 06
+https://v7.kkphimplayer7.com/20260712/uQPdYqsN/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 07
+https://v7.kkphimplayer7.com/20260712/GdKPwlPI/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 08
+https://v7.kkphimplayer7.com/20260712/iYuFKlx3/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 09
+https://v7.kkphimplayer7.com/20260717/fZq2N6zJ/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Gió Nổi Hàn Dương, Xuân Sơn Cảnh (Nắng Đông Gọi Gió Trên Núi Xuân)", Tập Tập 10
+https://v7.kkphimplayer7.com/20260724/plOFsVwU/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Thương Nguyên Đồ", Tập Tập 01
 https://s6.kkphimplayer6.com/20250530/UAmphGlc/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Thương Nguyên Đồ", Tập Tập 02
@@ -16719,234 +16787,6 @@ https://v7.kkphimplayer7.com/20260717/nF0EzPw2/index.m3u8
 https://v7.kkphimplayer7.com/20260720/2o3OFTzM/index.m3u8
 #EXTINF:-1 group-title="Cổ Trang;Nghịch Thiên Chí Tôn", Tập Tập 534
 https://v7.kkphimplayer7.com/20260724/a6QFOUSL/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 01
-https://v7.kkphimplayer7.com/20260619/rajtCeSK/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 02
-https://v7.kkphimplayer7.com/20260619/m2Nd2WJt/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 03
-https://v7.kkphimplayer7.com/20260625/hUT4aRIo/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 04
-https://v7.kkphimplayer7.com/20260626/ApuIcGmF/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 05
-https://v7.kkphimplayer7.com/20260702/lE3lyFW7/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 06
-https://v7.kkphimplayer7.com/20260707/lsNtZd49/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 07
-https://v7.kkphimplayer7.com/20260710/5rGFsrLL/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 08
-https://v7.kkphimplayer7.com/20260710/WDRjJyGu/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 09
-https://v7.kkphimplayer7.com/20260716/9yGjnQje/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 10
-https://v7.kkphimplayer7.com/20260717/nAtiVXXD/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lửa Trắng", Tập Tập 11
-https://v7.kkphimplayer7.com/20260724/bDwOneXX/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 01
-https://v7.kkphimplayer7.com/20260718/UL4VKy7M/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 02
-https://v7.kkphimplayer7.com/20260718/Uxiddjv5/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 03
-https://v7.kkphimplayer7.com/20260718/WLNPuBEC/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 04
-https://v7.kkphimplayer7.com/20260718/uPkT3Ckm/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 05
-https://v7.kkphimplayer7.com/20260719/tEqatW8g/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 06
-https://v7.kkphimplayer7.com/20260719/FsvFuf5m/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 07
-https://v7.kkphimplayer7.com/20260719/jWGMj66t/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 08
-https://v7.kkphimplayer7.com/20260719/4T4BVMWY/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 09
-https://v7.kkphimplayer7.com/20260720/FsDga0bz/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 10
-https://v7.kkphimplayer7.com/20260720/rgoe45so/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 11
-https://v7.kkphimplayer7.com/20260720/rUpM21fe/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 12
-https://v7.kkphimplayer7.com/20260720/GkMRuqFa/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 13
-https://v7.kkphimplayer7.com/20260721/5dREWqm5/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 14
-https://v7.kkphimplayer7.com/20260721/HXV6bAey/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 15
-https://v7.kkphimplayer7.com/20260722/rMVSlxw5/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 16
-https://v7.kkphimplayer7.com/20260723/gF00Mkvm/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Lẽ Nào Lại Thế", Tập Tập 17
-https://v7.kkphimplayer7.com/20260724/Ek60P2uT/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 01
-https://v7.kkphimplayer7.com/20260706/CRrsKk0I/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 02
-https://v7.kkphimplayer7.com/20260706/lOPSAnZc/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 03
-https://v7.kkphimplayer7.com/20260706/MqBPt0Jh/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 04
-https://v7.kkphimplayer7.com/20260706/d45ul3NN/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 05
-https://v7.kkphimplayer7.com/20260707/7K7SitoD/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 06
-https://v7.kkphimplayer7.com/20260707/mzosuj70/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 07
-https://v7.kkphimplayer7.com/20260707/ctz8paxw/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 08
-https://v7.kkphimplayer7.com/20260707/c8MGeWe1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 09
-https://v7.kkphimplayer7.com/20260708/wUJ5MyNR/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 10
-https://v7.kkphimplayer7.com/20260708/jXHJi9zY/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 11
-https://v7.kkphimplayer7.com/20260709/z1FQigNt/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 12
-https://v7.kkphimplayer7.com/20260709/lu947VVk/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 13
-https://v7.kkphimplayer7.com/20260710/JuzQljnc/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 14
-https://v7.kkphimplayer7.com/20260710/B3lWpmbr/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 15
-https://v7.kkphimplayer7.com/20260711/rxmDMyde/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 16
-https://v7.kkphimplayer7.com/20260711/8rZQRcZX/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 17
-https://v7.kkphimplayer7.com/20260712/9ljMJyKK/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 18
-https://v7.kkphimplayer7.com/20260712/amzU4y2i/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 19
-https://v7.kkphimplayer7.com/20260713/dRODAxau/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 20
-https://v7.kkphimplayer7.com/20260713/pQLRb53u/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 21
-https://v7.kkphimplayer7.com/20260714/279FxHT1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 22
-https://v7.kkphimplayer7.com/20260714/LAH4EI3n/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 23
-https://v7.kkphimplayer7.com/20260715/0sK6pGqb/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 24
-https://v7.kkphimplayer7.com/20260715/vhegpAVs/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 25
-https://v7.kkphimplayer7.com/20260716/HJHLr2Rz/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 26
-https://v7.kkphimplayer7.com/20260716/lT9AtqZq/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 27
-https://v7.kkphimplayer7.com/20260717/nfJRwAqy/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 28
-https://v7.kkphimplayer7.com/20260717/qRDhD6dp/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 29
-https://v7.kkphimplayer7.com/20260719/gVOWZqcA/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 30
-https://v7.kkphimplayer7.com/20260719/Vjzl2sa6/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 31
-https://v7.kkphimplayer7.com/20260722/lkfecNjJ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 32
-https://v7.kkphimplayer7.com/20260723/3cUaRXlU/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Kinh Thành Kỳ Thám", Tập Tập 33
-https://v7.kkphimplayer7.com/20260724/6FEWvoUA/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Hãy Là Người Chơi Thứ Hai Của Tôi", Tập Tập 01
-https://v7.kkphimplayer7.com/20260718/iGcQUjMN/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Hãy Là Người Chơi Thứ Hai Của Tôi", Tập Tập 02
-https://v7.kkphimplayer7.com/20260724/ZlFhnz7q/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 01
-https://v7.kkphimplayer7.com/20260719/0iEQmmnS/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 02
-https://v7.kkphimplayer7.com/20260719/cMmtewrb/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 03
-https://v7.kkphimplayer7.com/20260719/3H895LfE/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 04
-https://v7.kkphimplayer7.com/20260719/vU0trY77/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 05
-https://v7.kkphimplayer7.com/20260719/QTEBNjl8/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 06
-https://v7.kkphimplayer7.com/20260720/61M0uRG2/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 07
-https://v7.kkphimplayer7.com/20260720/JK4GWPCw/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 08
-https://v7.kkphimplayer7.com/20260721/niQ7OFJH/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 09
-https://v7.kkphimplayer7.com/20260721/vOtj6wva/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 10
-https://v7.kkphimplayer7.com/20260722/ylLY7MJL/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 11
-https://v7.kkphimplayer7.com/20260722/fVE9Wwmz/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 12
-https://v7.kkphimplayer7.com/20260723/4VT4ioQw/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 13
-https://v7.kkphimplayer7.com/20260723/zoCm5JtC/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 14
-https://v7.kkphimplayer7.com/20260724/w7kgxiUB/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 15
-https://v7.kkphimplayer7.com/20260724/kK17puwe/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 01
-https://v7.kkphimplayer7.com/20260719/Y5AHc8f7/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 02
-https://v7.kkphimplayer7.com/20260719/nGoVCrrf/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 03
-https://v7.kkphimplayer7.com/20260719/W3OQT1sG/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 04
-https://v7.kkphimplayer7.com/20260719/CAJzlVx9/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 05
-https://v7.kkphimplayer7.com/20260719/qwjU3kln/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 06
-https://v7.kkphimplayer7.com/20260720/zLr5i9eR/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 07
-https://v7.kkphimplayer7.com/20260720/lbVOwMaU/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 08
-https://v7.kkphimplayer7.com/20260721/KqbPtxkU/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 09
-https://v7.kkphimplayer7.com/20260721/ILC18FW1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 10
-https://v7.kkphimplayer7.com/20260722/kcqYYHc5/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 11
-https://v7.kkphimplayer7.com/20260722/TB1Knki8/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 12
-https://v7.kkphimplayer7.com/20260723/jOSbWxxd/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 13
-https://v7.kkphimplayer7.com/20260723/gK1SxhmO/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 14
-https://v7.kkphimplayer7.com/20260724/rSK3Ox4G/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Giây Phút Ấy Vượt Giới Hạn", Tập Tập 15
-https://v7.kkphimplayer7.com/20260724/Wv0pFryj/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 01
-https://v7.kkphimplayer7.com/20260607/jlu3TrLS/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 02
-https://v7.kkphimplayer7.com/20260607/vezlpaun/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 03
-https://v7.kkphimplayer7.com/20260612/iSjXUOpb/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 04
-https://v7.kkphimplayer7.com/20260619/Cy5VB8Vy/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 05
-https://v7.kkphimplayer7.com/20260626/vTSVMbza/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 06
-https://v7.kkphimplayer7.com/20260703/K1zfoXaC/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 07
-https://v7.kkphimplayer7.com/20260710/a9DwqDUh/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 08
-https://v7.kkphimplayer7.com/20260717/Y2dDJbPl/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Dòng Sông Tội Ác (Phần 1)", Tập Tập 09
-https://v7.kkphimplayer7.com/20260724/glj6uts0/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 01
-https://v7.kkphimplayer7.com/20260721/c4iYqt1s/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 02
-https://v7.kkphimplayer7.com/20260721/gkiFa2fY/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 03
-https://v7.kkphimplayer7.com/20260721/mvnfD0jy/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 04
-https://v7.kkphimplayer7.com/20260721/Q8m39ZKR/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 05
-https://v7.kkphimplayer7.com/20260721/xQiHPgnG/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 06
-https://v7.kkphimplayer7.com/20260721/e6ZwO1wO/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 07
-https://v7.kkphimplayer7.com/20260722/qRiCrsrB/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 08
-https://v7.kkphimplayer7.com/20260722/vY5ZzsvP/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 09
-https://v7.kkphimplayer7.com/20260724/RdZVKtfU/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 10
-https://v7.kkphimplayer7.com/20260724/dZY9O7it/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 11
-https://v7.kkphimplayer7.com/20260724/oAbmhPNx/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Chuyện Vui Của Y Nhiên", Tập Tập 12
-https://v7.kkphimplayer7.com/20260724/dQcL5fbe/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Dị Nhân '97 (Phần 2)", Tập 1
 https://vip.opstream90.com/20260705/36141_58393577/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Dị Nhân '97 (Phần 2)", Tập 2
