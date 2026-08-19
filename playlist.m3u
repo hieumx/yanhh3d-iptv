@@ -3126,7 +3126,7 @@ https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/800478b0-b18b-4df5-84a4-ffae1
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 95
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/fd8f94ee-e007-4534-bd2e-353f103f2617.m3u8
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/31d7c0fc-695b-4f73-a2b2-742872689955.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 96
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3186,7 +3186,7 @@ https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/385ee34d-ba5c-49ab-8a06-84312
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 110
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/c00f970e-7881-4591-aa11-c3e8b7946953.m3u8
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/40a851c5-1ff8-46ff-9e6e-35c08ddb5214.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 111
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -7747,10 +7747,10 @@ https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/5838a833-dec5-49f7-adcf-f
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1072246195178759%2F&amp;show_text=true&amp;width=560&amp;t=0
-#EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 1
+#EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 01
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/c5be4b94-b285-4bac-870d-2a76269ca125.m3u8
+https://www.dailymotion.com/embed/video/kuKaIc0fCfsMICxMsra?autoplay=1
 #EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 02
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -17233,6 +17233,46 @@ https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8
 https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Báo Thù", Tập Tập 07
 https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 01
+https://s6.kkphimplayer6.com/20251010/LNGo9YBs/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 02
+https://s6.kkphimplayer6.com/20251010/42Yb8t0Z/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 03
+https://s6.kkphimplayer6.com/20251010/853E0QDh/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 04
+https://s6.kkphimplayer6.com/20251017/HIUVj4p4/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 05
+https://s6.kkphimplayer6.com/20251024/4HiuqJzt/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 06
+https://s6.kkphimplayer6.com/20251102/ofTz4c0T/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 07
+https://s6.kkphimplayer6.com/20251109/0zSMUGII/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 08
+https://s6.kkphimplayer6.com/20251123/ekdRldLS/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 09
+https://s6.kkphimplayer6.com/20251208/1MjUvp07/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 10
+https://s6.kkphimplayer6.com/20251208/RBhmWJpx/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 11
+https://s6.kkphimplayer6.com/20260118/eWJFzOsJ/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 12
+https://s6.kkphimplayer6.com/20260118/9KdicLQ0/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 13
+https://s6.kkphimplayer6.com/20260131/zk9X74HF/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 14
+https://v7.kkphimplayer7.com/20260601/VqmJDxPq/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 15
+https://v7.kkphimplayer7.com/20260601/Nr6gsgrf/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 16
+https://v7.kkphimplayer7.com/20260606/OXqd2VEO/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 17
+https://v7.kkphimplayer7.com/20260613/l8GRjikv/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 18
+https://v7.kkphimplayer7.com/20260620/rX1aK8R7/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 19
+https://v7.kkphimplayer7.com/20260701/KZrhOUzw/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Tâm Trí Rực Rỡ (Phần 2)", Tập Tập 20
+https://v7.kkphimplayer7.com/20260703/Pn7z6OhD/index.m3u8
 #EXTINF:-1 group-title="Hoạt Hình;Sơn Hải Kinh: Thiết Lập Lại Trật Tự", Tập Tập 01
 https://v7.kkphimplayer7.com/20260719/1YzCkX0O/index.m3u8
 #EXTINF:-1 group-title="Hoạt Hình;Sơn Hải Kinh: Thiết Lập Lại Trật Tự", Tập Tập 02
@@ -17695,26 +17735,6 @@ https://v7.kkphimplayer7.com/20260811/dsBwwr1m/index.m3u8
 https://v7.kkphimplayer7.com/20260817/yiquSFDs/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 06
 https://v7.kkphimplayer7.com/20260818/4M2yDQ4V/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 01
-https://v7.kkphimplayer7.com/20260807/jSxiwLUI/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 02
-https://v7.kkphimplayer7.com/20260807/3ro4vFzJ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 03
-https://v7.kkphimplayer7.com/20260807/3vR3YAp8/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 04
-https://v7.kkphimplayer7.com/20260807/TOWhpXAd/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 05
-https://v7.kkphimplayer7.com/20260811/ONO6Rc1R/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 06
-https://v7.kkphimplayer7.com/20260811/hnWTwP3u/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 07
-https://v7.kkphimplayer7.com/20260811/2XVHVHIJ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 08
-https://v7.kkphimplayer7.com/20260818/4OeQDYK5/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 09
-https://v7.kkphimplayer7.com/20260818/dfLw3PAZ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 10
-https://v7.kkphimplayer7.com/20260818/3cEsG1PC/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Dị Nhân '97 (Phần 2)", Tập 1
 https://vip.opstream90.com/20260705/36141_58393577/index.m3u8
 #EXTINF:-1 group-title="Hành Động;Dị Nhân '97 (Phần 2)", Tập 2
