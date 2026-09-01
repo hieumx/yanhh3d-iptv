@@ -3166,7 +3166,7 @@ https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/800478b0-b18b-4df5-84a4-ffae1
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 95
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/fd8f94ee-e007-4534-bd2e-353f103f2617.m3u8
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/31d7c0fc-695b-4f73-a2b2-742872689955.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 96
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -7203,6 +7203,10 @@ https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/3ec75c60-b987-4b44-aeff-8
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/ff7978f6-ca51-4ba9-b23b-f087b276c749.m3u8/stream-plain?t=c93a3d21acdc3294.1787913286
+#EXTINF:-1 group-title="Huyền Huyễn;Nhất Niệm Vĩnh Hằng [Full]", Tập 175
+#EXTVLCOPT:http-referrer=https://yanhh3d.im/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/a561512a-58ec-4ef5-809a-694a164134b3.m3u8/stream-plain?t=a8e96d766f60b81b.1788279370
 #EXTINF:-1 group-title="Huyền Huyễn;Nhất Trảm Thương Khung [Cốc An]", Tập 1
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -17637,6 +17641,42 @@ https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8
 https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Báo Thù", Tập Tập 07
 https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 01
+https://v7.kkphimplayer7.com/20260806/aoSy5dFp/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 02
+https://v7.kkphimplayer7.com/20260806/sYt8BtOA/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 03
+https://v7.kkphimplayer7.com/20260811/Nwqmtdgq/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 04
+https://v7.kkphimplayer7.com/20260811/dsBwwr1m/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 05
+https://v7.kkphimplayer7.com/20260817/yiquSFDs/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 06
+https://v7.kkphimplayer7.com/20260818/4M2yDQ4V/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 07
+https://v7.kkphimplayer7.com/20260825/X5LgaxmV/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 08
+https://v7.kkphimplayer7.com/20260825/mp9jJTDf/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 09
+https://v7.kkphimplayer7.com/20260901/k4wyRizv/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 10
+https://v7.kkphimplayer7.com/20260901/0jUurBB0/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 01
+https://v7.kkphimplayer7.com/20260825/e7oLLklq/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 02
+https://v7.kkphimplayer7.com/20260825/bG00i7Sd/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 03
+https://v7.kkphimplayer7.com/20260825/jBciikVO/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 04
+https://v7.kkphimplayer7.com/20260825/fxTM9xX8/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 05
+https://v7.kkphimplayer7.com/20260825/8gPrHDBC/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 06
+https://v7.kkphimplayer7.com/20260825/iwkgeAy4/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 07
+https://v7.kkphimplayer7.com/20260825/eODYbBNN/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 08
+https://v7.kkphimplayer7.com/20260826/uXy2ej9g/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 01
 https://v7.kkphimplayer7.com/20260807/jSxiwLUI/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 02
@@ -17669,40 +17709,6 @@ https://v7.kkphimplayer7.com/20260901/FCrnOdEh/index.m3u8
 https://v7.kkphimplayer7.com/20260901/oSnIVofw/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Tình Yêu Nổi Loạn (Phần 2)", Tập Tập 16
 https://v7.kkphimplayer7.com/20260901/OHA62aCM/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 01
-https://v7.kkphimplayer7.com/20260806/aoSy5dFp/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 02
-https://v7.kkphimplayer7.com/20260806/sYt8BtOA/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 03
-https://v7.kkphimplayer7.com/20260811/Nwqmtdgq/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 04
-https://v7.kkphimplayer7.com/20260811/dsBwwr1m/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 05
-https://v7.kkphimplayer7.com/20260817/yiquSFDs/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 06
-https://v7.kkphimplayer7.com/20260818/4M2yDQ4V/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 07
-https://v7.kkphimplayer7.com/20260825/X5LgaxmV/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 08
-https://v7.kkphimplayer7.com/20260825/mp9jJTDf/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 09
-https://v7.kkphimplayer7.com/20260901/k4wyRizv/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 01
-https://v7.kkphimplayer7.com/20260825/e7oLLklq/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 02
-https://v7.kkphimplayer7.com/20260825/bG00i7Sd/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 03
-https://v7.kkphimplayer7.com/20260825/jBciikVO/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 04
-https://v7.kkphimplayer7.com/20260825/fxTM9xX8/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 05
-https://v7.kkphimplayer7.com/20260825/8gPrHDBC/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 06
-https://v7.kkphimplayer7.com/20260825/iwkgeAy4/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 07
-https://v7.kkphimplayer7.com/20260825/eODYbBNN/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sếp Chính Là Thần Tượng (Bias tôi, sếp của tôi)", Tập Tập 08
-https://v7.kkphimplayer7.com/20260826/uXy2ej9g/index.m3u8
 #EXTINF:-1 group-title="Khoa Học;Sự Tái Sinh Của Nàng", Tập Tập 01
 https://v7.kkphimplayer7.com/20260820/6VedMspG/index.m3u8
 #EXTINF:-1 group-title="Khoa Học;Sự Tái Sinh Của Nàng", Tập Tập 02
