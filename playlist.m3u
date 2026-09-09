@@ -3242,7 +3242,7 @@ https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/385ee34d-ba5c-49ab-8a06-84312
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 110
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/40a851c5-1ff8-46ff-9e6e-35c08ddb5214.m3u8
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/c00f970e-7881-4591-aa11-c3e8b7946953.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 111
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -8146,7 +8146,7 @@ https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/475d02c5-53eb-4efa-9bad-3
 #EXTINF:-1 group-title="Huyền Huyễn;Học Viện Cao Võ Đông Đại", Tập 8
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/fa966953-aa28-4d4c-9bc6-a9a826da9032.m3u8/stream-plain?t=a85541d91962131b.1787913066
+https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/f00f576d-ad65-46d5-9e6c-e0d42d41e1da.m3u8/stream-plain?t=84759537c0315ea8.1788492726
 #EXTINF:-1 group-title="Huyền Huyễn;Học Viện Cao Võ Đông Đại", Tập 9
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -9251,10 +9251,10 @@ https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/89a6aaaf-440d-4de8-bff0-a
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://scontent-sin2-9-xx.fbcdn.cloud/o2/v/t2/f2/m366/0c57a614-ab05-4620-af33-d330999b445d.m3u8/stream-plain?t=f8ae91b41cc2e2a2.1788864659
-#EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 01
+#EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 1
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://www.dailymotion.com/embed/video/kuKaIc0fCfsMICxMsra?autoplay=1
+https://scontent-sin2-3-xx.fbcdn.cloud/stream/m3u8/c5be4b94-b285-4bac-870d-2a76269ca125.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 02
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -12537,6 +12537,10 @@ https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8
 https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Báo Thù", Tập Tập 07
 https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8
+#EXTINF:-1 group-title="Hình Sự;Manh Mối Cuối Cùng (Phần 1)", Tập Tập 01
+https://v7.kkphimplayer7.com/20260909/yIiopYxR/index.m3u8
+#EXTINF:-1 group-title="Hình Sự;Manh Mối Cuối Cùng (Phần 1)", Tập Tập 02
+https://v7.kkphimplayer7.com/20260909/EM52272R/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Quan Săn Yêu Cửu Phẩm", Tập Tập 01
 https://v7.kkphimplayer7.com/20260907/g01LE7P3/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Quan Săn Yêu Cửu Phẩm", Tập Tập 02
@@ -12797,25 +12801,3 @@ https://v7.kkphimplayer7.com/20260909/Edoqvc60/index.m3u8
 https://v7.kkphimplayer7.com/20260909/QrzEOGXa/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 5)", Tập Tập 10
 https://v7.kkphimplayer7.com/20260909/k5hW73FP/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 01
-https://v7.kkphimplayer7.com/20260909/lFg1qaeF/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 02
-https://v7.kkphimplayer7.com/20260909/BOhGttCy/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 03
-https://v7.kkphimplayer7.com/20260909/r5e9oxGw/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 04
-https://v7.kkphimplayer7.com/20260909/pvEjgtbz/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 05
-https://v7.kkphimplayer7.com/20260909/1HGO7IUc/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 06
-https://v7.kkphimplayer7.com/20260909/nHl5Op0F/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 07
-https://v7.kkphimplayer7.com/20260909/TwUVEqWW/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 08
-https://v7.kkphimplayer7.com/20260909/Gy42YLjM/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 09
-https://v7.kkphimplayer7.com/20260909/4RRgtANJ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 10
-https://v7.kkphimplayer7.com/20260909/AwHAeWxa/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Bác Sĩ X Ngoại Khoa: Daimon Michiko (Phần 4)", Tập Tập 11
-https://v7.kkphimplayer7.com/20260909/9zAxDCwn/index.m3u8
