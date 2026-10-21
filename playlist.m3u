@@ -3338,7 +3338,7 @@ https://scontent-sin2-3-xx.streamrpt.xyz/stream/m3u8/385ee34d-ba5c-49ab-8a06-843
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 110
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.streamrpt.xyz/stream/m3u8/40a851c5-1ff8-46ff-9e6e-35c08ddb5214.m3u8
+https://scontent-sin2-3-xx.streamrpt.xyz/stream/m3u8/c00f970e-7881-4591-aa11-c3e8b7946953.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 111
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -9983,10 +9983,10 @@ https://scontent-sin2-9-xx.streamrpt1.site/o2/v/t2/f2/m366/0f7777e8-6a8e-4244-ab
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://scontent-sin2-9-xx.streamrpt1.site/o2/v/t2/f2/m366/4aaa4414-c5d7-411a-b12c-070c3f538abd.m3u8/stream-plain?t=e97ea72ee4d46a6e.1792581864
-#EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 01
+#EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 1
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://www.dailymotion.com/embed/video/kuKaIc0fCfsMICxMsra?autoplay=1
+https://scontent-sin2-3-xx.streamrpt.xyz/stream/m3u8/c5be4b94-b285-4bac-870d-2a76269ca125.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Vạn Giới Độc Tôn", Tập 02
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -16093,6 +16093,482 @@ https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8
 https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Báo Thù", Tập Tập 07
 https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 01
+https://v7.kkphimplayer7.com/20260801/UAn8JAVB/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 02
+https://v7.kkphimplayer7.com/20260801/Iuw5sPCJ/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 03
+https://v7.kkphimplayer7.com/20260801/dYVCYgc8/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 04
+https://v7.kkphimplayer7.com/20260807/7gebjvyp/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 05
+https://v7.kkphimplayer7.com/20260812/Xk1LqPvM/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 06
+https://v7.kkphimplayer7.com/20260820/Hgfj5muf/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 07
+https://v7.kkphimplayer7.com/20260826/VYDWCim0/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 08
+https://v7.kkphimplayer7.com/20260909/TMJ7CdTX/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 09
+https://v7.kkphimplayer7.com/20260916/mP9dzuk8/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 10
+https://v7.kkphimplayer7.com/20260916/r3ZnmLth/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 11
+https://a.kvp726.com/20260923/H5nWgi7x/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 12
+https://a.kvp726.com/20260930/g8RErPQR/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 13
+https://a.kvp726.com/20261007/Se2U9vS5/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 14
+https://a.kvp726.com/20261021/fXXPqyTc/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Lý Hùng Miêu (Gấu Trúc Lý)", Tập Tập 15
+https://a.kvp726.com/20261021/i999um9v/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 01
+https://s4.phim1280.tv/20241018/5gRnTm6D/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 02
+https://s4.phim1280.tv/20241018/lDjMpy6k/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 03
+https://s4.phim1280.tv/20241018/VmZ7TMwa/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 04
+https://s4.phim1280.tv/20241018/5YkZwF0E/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 05
+https://s4.phim1280.tv/20241018/5jXKQWNr/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 06
+https://s4.phim1280.tv/20241018/WXO1QHWl/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 07
+https://s4.phim1280.tv/20241018/lbYVQrxn/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 08
+https://s4.phim1280.tv/20241018/luqPa61e/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 09
+https://s4.phim1280.tv/20241018/51g78ssk/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 10
+https://s4.phim1280.tv/20241018/uUWBxaEj/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 11
+https://s4.phim1280.tv/20241022/nLaxruo7/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 12
+https://s5.phim1280.tv/20241025/N1dNBVs0/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 13
+https://s4.phim1280.tv/20241028/1YMuJ1eA/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 14
+https://s5.phim1280.tv/20241030/XYQjFieP/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 15
+https://s4.phim1280.tv/20241103/m1j7i51d/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 16
+https://s4.phim1280.tv/20241106/zeUwDEuD/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 17
+https://s5.phim1280.tv/20241111/3uzqhhkG/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 18
+https://s4.phim1280.tv/20241113/ipdcvL0g/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 19
+https://s5.phim1280.tv/20241118/xO3sgJSF/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 20
+https://s5.phim1280.tv/20241122/0kNCnnQN/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 21
+https://s4.phim1280.tv/20241126/WBkuSi9A/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 22
+https://s4.phim1280.tv/20241128/E42gxmjq/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 23
+https://s5.phim1280.tv/20241201/jPztxdgp/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 24
+https://s5.phim1280.tv/20241205/1T4Z8HVP/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 25
+https://s4.phim1280.tv/20241208/xv2Tzz14/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 26
+https://s4.phim1280.tv/20241212/bf1QyuM5/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 27
+https://s4.phim1280.tv/20241215/i9S20FbV/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 28
+https://s4.phim1280.tv/20241218/UrtAjmja/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 29
+https://s4.phim1280.tv/20241223/1QafuRws/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 30
+https://s5.phim1280.tv/20241225/D2KlPgw2/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 31
+https://s5.phim1280.tv/20241229/dVX9QhAW/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 32
+https://s4.phim1280.tv/20250102/2mEcNKvf/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 33
+https://s5.phim1280.tv/20250111/LfkTM87A/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 34
+https://s5.phim1280.tv/20250111/8XmyUHrx/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 35
+https://s5.phim1280.tv/20250113/RLY3TJHM/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 36
+https://s4.phim1280.tv/20250115/39YvIQAK/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 37
+https://s4.phim1280.tv/20250130/GUQYLlgq/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 38
+https://s4.phim1280.tv/20250130/cxKjVJss/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 39
+https://s4.phim1280.tv/20250130/PX9qYcdk/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 40
+https://s4.phim1280.tv/20250130/0HOIiO1Q/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 41
+https://s4.phim1280.tv/20250311/SJCWvzVA/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 42
+https://s4.phim1280.tv/20250311/bZXkSf9m/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 43
+https://s4.phim1280.tv/20250311/l5DMQHMF/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 44
+https://s4.phim1280.tv/20250311/9rit4drG/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 45
+https://s4.phim1280.tv/20250311/AyNmUQHx/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 46
+https://s4.phim1280.tv/20250311/Sq6yRBUI/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 47
+https://s4.phim1280.tv/20250311/Oh2joKHN/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 48
+https://s4.phim1280.tv/20250311/lV7heeHw/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 49
+https://s4.phim1280.tv/20250311/h9YQcPCA/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 50
+https://s4.phim1280.tv/20250311/47vvw8Ag/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 51
+https://s4.phim1280.tv/20250311/nvow9so7/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 52
+https://s4.phim1280.tv/20250312/g3EStDPD/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 53
+https://s4.phim1280.tv/20250316/dEe5kjsq/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 54
+https://s5.phim1280.tv/20250319/u6aj1iC8/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 55
+https://s5.phim1280.tv/20250324/UUg06v6U/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 56
+https://s5.phim1280.tv/20250326/Ss04maYB/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 57
+https://s4.phim1280.tv/20250330/HXEpfhVe/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 58
+https://s5.phim1280.tv/20250402/kcJuKzrV/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 59
+https://s5.phim1280.tv/20250407/0zuTkJsd/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 60
+https://s4.phim1280.tv/20250410/LBBIseI2/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 61
+https://s4.phim1280.tv/20250413/89KPhMUF/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 62
+https://s4.phim1280.tv/20250416/vOMqqnjd/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 63
+https://s5.phim1280.tv/20250420/6uAu3aQI/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 64
+https://s4.phim1280.tv/20250423/2tA3aQU5/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 65
+https://s4.phim1280.tv/20250428/7rfUH8jr/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 66
+https://s5.phim1280.tv/20250430/FCikPuyS/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 67
+https://s5.phim1280.tv/20250504/Cp7yjbyV/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 68
+https://s4.phim1280.tv/20250507/9I6z6SmD/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 69
+https://s4.phim1280.tv/20250511/CBMV6wjh/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 70
+https://s4.phim1280.tv/20250514/2rI28YJQ/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 71
+https://s4.phim1280.tv/20250519/6o85tbYk/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 72
+https://s4.phim1280.tv/20250521/qXhmEwbv/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 73
+https://s6.kkphimplayer6.com/20250525/Oq7pr9Wf/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 74
+https://s6.kkphimplayer6.com/20250528/EJUiVnd2/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 75
+https://s6.kkphimplayer6.com/20250602/m2ugEFtW/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 76
+https://s6.kkphimplayer6.com/20250604/GdQKHF6d/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 77
+https://s6.kkphimplayer6.com/20250609/lIiWyK57/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 78
+https://s6.kkphimplayer6.com/20250611/Qc24mw9D/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 79
+https://s6.kkphimplayer6.com/20250616/Es40Kuuo/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 80
+https://s6.kkphimplayer6.com/20250618/935zfavO/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 81
+https://s6.kkphimplayer6.com/20250622/aNtS19mY/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 82
+https://s6.kkphimplayer6.com/20250627/vR563krP/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 83
+https://s6.kkphimplayer6.com/20250630/4DJDmLy8/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 84
+https://s6.kkphimplayer6.com/20250702/9gziktjF/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 85
+https://s6.kkphimplayer6.com/20250707/sxChu2Hy/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 86
+https://s6.kkphimplayer6.com/20250713/qz9Lji9i/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 87
+https://s6.kkphimplayer6.com/20250713/GMkTsC19/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 88
+https://s6.kkphimplayer6.com/20250717/3CAMJtV8/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 89
+https://s6.kkphimplayer6.com/20250723/sPgt6hfU/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 90
+https://s6.kkphimplayer6.com/20250723/jA90ZZbX/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 91
+https://s6.kkphimplayer6.com/20250728/2zA6aufe/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 92
+https://s6.kkphimplayer6.com/20250801/WTPRJkuS/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 93
+https://s6.kkphimplayer6.com/20250803/hYUlEIRg/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 94
+https://s6.kkphimplayer6.com/20250807/5RoylU5o/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 95
+https://s6.kkphimplayer6.com/20250811/ZaWH1FTb/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 96
+https://s6.kkphimplayer6.com/20250815/PvzQflKd/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 97
+https://s6.kkphimplayer6.com/20250819/fKElUVVJ/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 98
+https://s6.kkphimplayer6.com/20250822/yfnucwNU/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 99
+https://s6.kkphimplayer6.com/20250829/5zTqUzPw/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 100
+https://s6.kkphimplayer6.com/20250829/LxCA3Hj7/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 101
+https://s6.kkphimplayer6.com/20250902/h9qDFblT/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 102
+https://s6.kkphimplayer6.com/20250905/Z6kkiQT1/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 103
+https://s6.kkphimplayer6.com/20250907/YwspgBSw/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 104
+https://s6.kkphimplayer6.com/20250911/vU1zsFFP/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 105
+https://s6.kkphimplayer6.com/20250915/QeS3i7GY/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 106
+https://s6.kkphimplayer6.com/20250918/69WVKAc4/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 107
+https://s6.kkphimplayer6.com/20250922/85E7wvdR/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 108
+https://s6.kkphimplayer6.com/20250924/8nPyJBUj/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 109
+https://s6.kkphimplayer6.com/20251002/6b0JyNtk/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 110
+https://s6.kkphimplayer6.com/20251003/EUu2ZHng/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 111
+https://s6.kkphimplayer6.com/20251005/yARySEN5/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 112
+https://s6.kkphimplayer6.com/20251009/3qS0WEnn/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 113
+https://s6.kkphimplayer6.com/20251013/RiQxgR9f/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 114
+https://s6.kkphimplayer6.com/20251015/3dTqNsLS/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 115
+https://s6.kkphimplayer6.com/20251020/Z3cMSkL1/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 116
+https://s6.kkphimplayer6.com/20251023/AoQk6Czk/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 117
+https://s6.kkphimplayer6.com/20251029/r3EWpEed/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 118
+https://s6.kkphimplayer6.com/20251101/KE4xzekV/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 119
+https://s6.kkphimplayer6.com/20251102/mXxvhV52/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 120
+https://s6.kkphimplayer6.com/20251105/fLpW7Y4r/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 121
+https://s6.kkphimplayer6.com/20251109/bVrtf4ut/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 122
+https://s6.kkphimplayer6.com/20251112/nB9v5zzG/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 123
+https://s6.kkphimplayer6.com/20251118/uwWSLt2G/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 124
+https://s6.kkphimplayer6.com/20251120/MRisxTne/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 125
+https://s6.kkphimplayer6.com/20251123/tezxPXSJ/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 126
+https://s6.kkphimplayer6.com/20251126/EYhRb5J0/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 127
+https://s6.kkphimplayer6.com/20251130/ChZe345u/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 128
+https://s6.kkphimplayer6.com/20251203/GVbufAy3/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 129
+https://s6.kkphimplayer6.com/20251208/K5cg0KfG/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 130
+https://s6.kkphimplayer6.com/20251210/BNkXNrnk/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 131
+https://s6.kkphimplayer6.com/20251214/dvg65LXN/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 132
+https://s6.kkphimplayer6.com/20251218/InabllTd/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 133
+https://s6.kkphimplayer6.com/20251222/k76FcPjC/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 134
+https://s6.kkphimplayer6.com/20251224/Cd1DU0ct/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 135
+https://s6.kkphimplayer6.com/20251228/uXPcOjUZ/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 136
+https://s6.kkphimplayer6.com/20251231/awhtagdD/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 137
+https://s6.kkphimplayer6.com/20260107/pb5OY0DF/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 138
+https://s6.kkphimplayer6.com/20260107/20HOvv8d/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 139
+https://s6.kkphimplayer6.com/20260111/yDRWCUSa/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 140
+https://s6.kkphimplayer6.com/20260114/Zhqtq2UN/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 141
+https://s6.kkphimplayer6.com/20260118/8G2pNqLW/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 142
+https://s6.kkphimplayer6.com/20260121/MVaezgWj/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 143
+https://s6.kkphimplayer6.com/20260125/agJmn5lb/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 144
+https://s6.kkphimplayer6.com/20260128/uTVMG7eB/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 145
+https://s6.kkphimplayer6.com/20260201/7R3MiYKK/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 146
+https://s6.kkphimplayer6.com/20260205/9FtRvD8a/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 147
+https://s6.kkphimplayer6.com/20260211/d9SEYS8K/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 148
+https://s6.kkphimplayer6.com/20260211/8urg2JJZ/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 149
+https://s6.kkphimplayer6.com/20260216/kD1TOqih/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 150
+https://s6.kkphimplayer6.com/20260219/8XgCi9hu/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 151
+https://s6.kkphimplayer6.com/20260223/HrDUMg8d/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 152
+https://s6.kkphimplayer6.com/20260226/arOja688/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 153
+https://s6.kkphimplayer6.com/20260302/6nJNHGcW/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 154
+https://s6.kkphimplayer6.com/20260305/8Zo8DI5G/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 155
+https://s6.kkphimplayer6.com/20260309/e9RVnhkt/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 156
+https://s6.kkphimplayer6.com/20260312/LkP9b48U/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 157
+https://s6.kkphimplayer6.com/20260315/g6zBleNg/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 158
+https://s6.kkphimplayer6.com/20260318/TPOMQTer/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 159
+https://s6.kkphimplayer6.com/20260323/JnTiSUvm/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 160
+https://s6.kkphimplayer6.com/20260325/REEkCJEo/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 161
+https://s6.kkphimplayer6.com/20260329/imbzdU4N/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 162
+https://s6.kkphimplayer6.com/20260401/nd338i2h/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 163
+https://s6.kkphimplayer6.com/20260405/vL53jncU/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 164
+https://s6.kkphimplayer6.com/20260408/HvR1VZHd/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 165
+https://s6.kkphimplayer6.com/20260412/AZk9KO4k/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 166
+https://s6.kkphimplayer6.com/20260415/AVAM51uq/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 167
+https://v7.kkphimplayer7.com/20260419/KrU9wZ3c/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 168
+https://v7.kkphimplayer7.com/20260423/HQTXKnLn/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 169
+https://v7.kkphimplayer7.com/20260426/2Q5KWAga/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 170
+https://v7.kkphimplayer7.com/20260429/W4i4qY9y/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 171
+https://v7.kkphimplayer7.com/20260503/oLVuCf5D/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 172
+https://v7.kkphimplayer7.com/20260506/mBYPtqMl/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 173
+https://v7.kkphimplayer7.com/20260510/yxEnN051/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 174
+https://v7.kkphimplayer7.com/20260513/rWvwixCh/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 175
+https://v7.kkphimplayer7.com/20260517/EiHQCjQg/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 176
+https://v7.kkphimplayer7.com/20260520/HZTbg0rU/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 177
+https://v7.kkphimplayer7.com/20260524/1nHeIYF3/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 178
+https://v7.kkphimplayer7.com/20260527/7lKfFzDo/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 179
+https://v7.kkphimplayer7.com/20260531/ryL6jYfD/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 180
+https://v7.kkphimplayer7.com/20260603/jpXWrPnu/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 181
+https://v7.kkphimplayer7.com/20260607/X7huT9HD/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 182
+https://v7.kkphimplayer7.com/20260607/1OCCZpjU/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 183
+https://v7.kkphimplayer7.com/20260610/wOqEK1xG/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 184
+https://v7.kkphimplayer7.com/20260614/or8GyqEB/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 185
+https://v7.kkphimplayer7.com/20260617/eIcI7PhN/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 186
+https://v7.kkphimplayer7.com/20260621/JVra366y/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 187
+https://v7.kkphimplayer7.com/20260625/fnKlDWml/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 188
+https://v7.kkphimplayer7.com/20260628/Mbf4wF0N/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 189
+https://v7.kkphimplayer7.com/20260701/ivWtgIUV/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 190
+https://v7.kkphimplayer7.com/20260705/xlU2e0Pg/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 191
+https://v7.kkphimplayer7.com/20260708/173JD3cC/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 192
+https://v7.kkphimplayer7.com/20260712/BYs5vd97/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 193
+https://v7.kkphimplayer7.com/20260715/bFTDf23J/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 194
+https://v7.kkphimplayer7.com/20260719/P3XCN2XC/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 195
+https://v7.kkphimplayer7.com/20260719/SDrQ1qFz/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 196
+https://v7.kkphimplayer7.com/20260722/vgd3Xe3V/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 197
+https://v7.kkphimplayer7.com/20260726/vTbKaeBg/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 198
+https://v7.kkphimplayer7.com/20260726/ZcWFBamv/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 199
+https://v7.kkphimplayer7.com/20260729/PbkH8TEn/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 200
+https://v7.kkphimplayer7.com/20260802/dsouqezY/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 201
+https://v7.kkphimplayer7.com/20260807/dfmllXC8/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 202
+https://v7.kkphimplayer7.com/20260809/UpCOVWLL/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 203
+https://v7.kkphimplayer7.com/20260812/PXZ7Qkgy/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 204
+https://v7.kkphimplayer7.com/20260816/fpDDoKIh/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 205
+https://v7.kkphimplayer7.com/20260823/3aXAH0Q9/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 206
+https://v7.kkphimplayer7.com/20260826/ltz3zbqu/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 207
+https://v7.kkphimplayer7.com/20260826/fNBbLqEC/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 208
+https://v7.kkphimplayer7.com/20260830/zj9s68fX/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 209
+https://v7.kkphimplayer7.com/20260902/3pWSDToj/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 210
+https://v7.kkphimplayer7.com/20260906/r4Pe4nSU/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 211
+https://v7.kkphimplayer7.com/20260909/3WlPAEPL/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 212
+https://v7.kkphimplayer7.com/20260916/feiiUAHF/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 213
+https://v7.kkphimplayer7.com/20260916/5e6OiMEj/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 214
+https://a.kvp726.com/20260920/D3dq5wOC/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 215
+https://a.kvp726.com/20260923/wZmuwZkk/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 216
+https://a.kvp726.com/20260927/fAMioz0d/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 217
+https://a.kvp726.com/20260930/AFU0Zz9J/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 218
+https://a.kvp726.com/20261005/WC1dNPBG/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 219
+https://a.kvp726.com/20261007/hc77S6en/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 220
+https://a.kvp726.com/20261011/aP7JDlxX/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 221
+https://a.kvp726.com/20261018/nZKX7ciX/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 222
+https://a.kvp726.com/20261018/sK6ZDAE0/index.m3u8
+#EXTINF:-1 group-title="Hành Động;Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y)", Tập Tập 223
+https://a.kvp726.com/20261021/r8WKcMHL/index.m3u8
 #EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 01
 https://a.kvp726.com/20261008/QyHjSWof/index.m3u8
 #EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 02
@@ -16243,87 +16719,3 @@ https://a.kvp726.com/20261021/wpoDVLqv/index.m3u8
 https://a.kvp726.com/20261021/mI6bYKHO/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Ván Cờ Của Cô Ấy", Tập Tập 08
 https://a.kvp726.com/20261021/KfHxgBHJ/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 01
-https://v7.kkphimplayer7.com/20260724/jr9k4x1A/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 02
-https://v7.kkphimplayer7.com/20260724/Yzr158Un/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 03
-https://v7.kkphimplayer7.com/20260724/b63VnSkD/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 04
-https://v7.kkphimplayer7.com/20260724/c4YXM2D3/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 05
-https://v7.kkphimplayer7.com/20260724/65C8UeBc/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 06
-https://v7.kkphimplayer7.com/20260729/L6HQsIBE/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 07
-https://v7.kkphimplayer7.com/20260729/dY72Q6rZ/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 08
-https://v7.kkphimplayer7.com/20260805/XW2ivAjI/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 09
-https://v7.kkphimplayer7.com/20260805/ukuiDZZB/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 10
-https://v7.kkphimplayer7.com/20260812/FRXwao1v/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 11
-https://v7.kkphimplayer7.com/20260812/yCnkjYeW/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 12
-https://v7.kkphimplayer7.com/20260821/dAgDGJhQ/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 13
-https://v7.kkphimplayer7.com/20260821/a9NBs0Dw/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 14
-https://v7.kkphimplayer7.com/20260826/oYZGkP5Q/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 15
-https://v7.kkphimplayer7.com/20260826/7BlqYdUZ/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 16
-https://v7.kkphimplayer7.com/20260903/mbdFPwMZ/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 17
-https://v7.kkphimplayer7.com/20260903/prl6zvpS/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 18
-https://v7.kkphimplayer7.com/20260909/281v4hsv/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 19
-https://v7.kkphimplayer7.com/20260909/aryGuTrc/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 20
-https://v7.kkphimplayer7.com/20260916/pea6Mpo3/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 21
-https://v7.kkphimplayer7.com/20260916/zuIaoWgn/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 22
-https://a.kvp726.com/20260923/1V0aNXs9/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 23
-https://a.kvp726.com/20260923/ocwGl76T/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 24
-https://a.kvp726.com/20261008/m6fyEbhF/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 25
-https://a.kvp726.com/20261008/RKVimUFO/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 26
-https://a.kvp726.com/20261008/9VkIdjSH/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 27
-https://a.kvp726.com/20261008/VzleW1xP/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 28
-https://a.kvp726.com/20261021/OZoTkPlR/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 29
-https://a.kvp726.com/20261021/M4d9uWAy/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 30
-https://a.kvp726.com/20261021/7Rvny5Sn/index.m3u8
-#EXTINF:-1 group-title="Viễn Tưởng;Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện", Tập Tập 31
-https://a.kvp726.com/20261021/xYbJWWhb/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 01
-https://a.kvp726.com/20261017/SbscK5jo/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 02
-https://a.kvp726.com/20261017/JAqNv5Ka/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 03
-https://a.kvp726.com/20261017/4wvQwiY1/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 04
-https://a.kvp726.com/20261018/hsptWlLC/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 05
-https://a.kvp726.com/20261018/MIs4l2s7/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 06
-https://a.kvp726.com/20261019/nzxM0ufM/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 07
-https://a.kvp726.com/20261019/4OYCpesS/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 08
-https://a.kvp726.com/20261020/5uDdYLEY/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 09
-https://a.kvp726.com/20261020/ufaFPJW5/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 10
-https://a.kvp726.com/20261021/8OxF0C60/index.m3u8
-#EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 11
-https://a.kvp726.com/20261021/fIxStoVj/index.m3u8
