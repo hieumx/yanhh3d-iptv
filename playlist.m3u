@@ -3338,7 +3338,7 @@ https://scontent-sin2-3-xx.streamrpt.xyz/stream/m3u8/385ee34d-ba5c-49ab-8a06-843
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 110
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://scontent-sin2-3-xx.streamrpt.xyz/stream/m3u8/c00f970e-7881-4591-aa11-c3e8b7946953.m3u8
+https://scontent-sin2-3-xx.streamrpt.xyz/stream/m3u8/40a851c5-1ff8-46ff-9e6e-35c08ddb5214.m3u8
 #EXTINF:-1 group-title="Huyền Huyễn;Phàm Nhân Tu Tiên", Tập 111
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -7159,6 +7159,10 @@ https://scontent-sin2-9-xx.streamrpt.xyz/o2/v/t2/f2/m366/5a073c4e-49b6-4fcd-978c
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://scontent-sin2-9-xx.streamrpt.xyz/o2/v/t2/f2/m366/fc0d59bc-cc98-4735-ba2c-430c968b5033.m3u8/stream-plain?t=e7dd34bb8353c6ed.1791996449
+#EXTINF:-1 group-title="Huyền Huyễn;Linh Cảnh Hành Giả", Tập 10
+#EXTVLCOPT:http-referrer=https://yanhh3d.im/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://scontent-sin2-9-xx.streamrpt1.site/o2/v/t2/f2/m366/9c8a3db1-49e2-4ed5-b2b3-1e7fe91ec78b.m3u8/stream-plain?t=ea286ed0f29b8019.1792601416
 #EXTINF:-1 group-title="Huyền Huyễn;Sư Huynh A Sư Huynh", Tập 1
 #EXTVLCOPT:http-referrer=https://yanhh3d.im/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -16089,12 +16093,128 @@ https://v7.kkphimplayer7.com/20260718/EVOsdtrI/index.m3u8
 https://v7.kkphimplayer7.com/20260718/JuGXKmKe/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Báo Thù", Tập Tập 07
 https://v7.kkphimplayer7.com/20260718/6NbI0a6R/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 01
+https://a.kvp726.com/20261008/QyHjSWof/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 02
+https://a.kvp726.com/20261012/6FY96xFf/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 03
+https://a.kvp726.com/20261014/qlpLGD4J/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 04
+https://a.kvp726.com/20261014/02eaTgor/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 05
+https://a.kvp726.com/20261016/TOoU1gdj/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 06
+https://a.kvp726.com/20261019/sogt3IVC/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 07
+https://a.kvp726.com/20261021/0pUpHYOc/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 01
+https://a.kvp726.com/20261008/zM8Cubs5/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 02
+https://a.kvp726.com/20261012/0D7yxbjp/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 03
+https://a.kvp726.com/20261014/PnHFFkLe/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 04
+https://a.kvp726.com/20261014/WyLBMWyY/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 05
+https://a.kvp726.com/20261016/5sUCI0Q1/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 06
+https://a.kvp726.com/20261019/vlqDq3Dq/index.m3u8
+#EXTINF:-1 group-title="Khoa Học;Siêu Nhân Tiga", Tập Tập 07
+https://a.kvp726.com/20261021/eEzJY0WM/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 01
+https://v7.kkphimplayer7.com/20260914/zUi7U0r7/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 02
+https://v7.kkphimplayer7.com/20260916/3uOkUlZ9/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 03
+https://v7.kkphimplayer7.com/20260916/q5nm3v2P/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 04
+https://v7.kkphimplayer7.com/20260917/srMcV7tf/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 05
+https://a.kvp726.com/20260918/GPydPYXJ/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 06
+https://a.kvp726.com/20260921/xPpcAif5/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 07
+https://a.kvp726.com/20260922/hIcT7J7g/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 08
+https://a.kvp726.com/20260923/1nDtF8gE/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 09
+https://a.kvp726.com/20260924/z9rd2fRu/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 10
+https://a.kvp726.com/20260925/72YOOeOo/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 11
+https://a.kvp726.com/20260928/uFAl0g7u/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 12
+https://a.kvp726.com/20260929/u3gHZAza/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 13
+https://a.kvp726.com/20260930/0nwEKqUI/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 14
+https://a.kvp726.com/20261001/QA9TCRU5/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 15
+https://a.kvp726.com/20261002/3u8oTYq6/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 16
+https://a.kvp726.com/20261005/E4F8nKJW/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 17
+https://a.kvp726.com/20261007/PBhgbxQb/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 18
+https://a.kvp726.com/20261007/BwMmq60W/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 19
+https://a.kvp726.com/20261008/I1jiShNh/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 20
+https://a.kvp726.com/20261009/KcjjgX7s/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 21
+https://a.kvp726.com/20261012/omkMf2OV/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 22
+https://a.kvp726.com/20261013/hCZBrYAy/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 23
+https://a.kvp726.com/20261015/HytoZFw2/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 24
+https://a.kvp726.com/20261015/gRTAeB98/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 25
+https://a.kvp726.com/20261017/dMdSWbkj/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 26
+https://a.kvp726.com/20261019/YUbsFEgK/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 27
+https://a.kvp726.com/20261020/admtxufE/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Trái tim của kẻ ký sinh", Tập Tập 28
+https://a.kvp726.com/20261021/lmfX26lW/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 01
+https://a.kvp726.com/20261012/fxDOc8yB/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 02
+https://a.kvp726.com/20261013/wG3Eg5kV/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 03
+https://a.kvp726.com/20261014/1mUAJvz2/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 04
+https://a.kvp726.com/20261015/a9e3NDEP/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 05
+https://a.kvp726.com/20261016/FQvAdXji/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 06
+https://a.kvp726.com/20261019/mph2y1vA/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 07
+https://a.kvp726.com/20261020/vGFfhpL9/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Thành Phố Rực Rỡ", Tập Tập 08
+https://a.kvp726.com/20261021/TAgYKyGP/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Thám Tử Đã Chết (Phần 2)", Tập Tập 01
+https://a.kvp726.com/20261008/1Dzq2K4w/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Thám Tử Đã Chết (Phần 2)", Tập Tập 02
+https://a.kvp726.com/20261015/zzHOzfth/index.m3u8
+#EXTINF:-1 group-title="Hoạt Hình;Thám Tử Đã Chết (Phần 2)", Tập Tập 03
+https://a.kvp726.com/20261021/gEKet5Ea/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Phía Sau Dối Trá", Tập Tập 01
+https://a.kvp726.com/20261008/nzjTH3OY/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Phía Sau Dối Trá", Tập Tập 02
+https://a.kvp726.com/20261013/4EyFKei6/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Phía Sau Dối Trá", Tập Tập 03
+https://a.kvp726.com/20261013/z7OgIQW3/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Phía Sau Dối Trá", Tập Tập 04
+https://a.kvp726.com/20261020/9gva3bJZ/index.m3u8
+#EXTINF:-1 group-title="Chính Kịch;Phía Sau Dối Trá", Tập Tập 05
+https://a.kvp726.com/20261021/dEAViYEm/index.m3u8
 #EXTINF:-1 group-title="Hình Sự;Trò Chơi Bắt Cóc (Phần 1)", Tập Tập 01
-https://a.kvp726.com/20261021/Im6gfjFf/index.m3u8
+https://a.kvp726.com/20261021/35EHerfe/index.m3u8
 #EXTINF:-1 group-title="Hình Sự;Trò Chơi Bắt Cóc (Phần 1)", Tập Tập 02
-https://a.kvp726.com/20261021/KQlvYFlF/index.m3u8
+https://a.kvp726.com/20261021/6pTvTNGn/index.m3u8
 #EXTINF:-1 group-title="Hình Sự;Trò Chơi Bắt Cóc (Phần 1)", Tập Tập 03
-https://a.kvp726.com/20261021/8KrseUeW/index.m3u8
+https://a.kvp726.com/20261021/g4y3fb5K/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)", Tập Tập 01
 https://a.kvp726.com/20261007/RqLPsjVh/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)", Tập Tập 02
@@ -16104,9 +16224,9 @@ https://a.kvp726.com/20261013/tbdfSuSM/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)", Tập Tập 04
 https://a.kvp726.com/20261013/6TbJjgNP/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)", Tập Tập 05
-https://a.kvp726.com/20261021/xJzWWCPQ/index.m3u8
+https://a.kvp726.com/20261021/fALnXua7/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Phần 1)", Tập Tập 06
-https://a.kvp726.com/20261021/4OqohUvq/index.m3u8
+https://a.kvp726.com/20261021/lmCgJamL/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Ván Cờ Của Cô Ấy", Tập Tập 01
 https://a.kvp726.com/20261021/aSZTg4Mc/index.m3u8
 #EXTINF:-1 group-title="Chính Kịch;Ván Cờ Của Cô Ấy", Tập Tập 02
@@ -16207,495 +16327,3 @@ https://a.kvp726.com/20261020/ufaFPJW5/index.m3u8
 https://a.kvp726.com/20261021/8OxF0C60/index.m3u8
 #EXTINF:-1 group-title="Bí Ẩn;Tuý Mộng", Tập Tập 11
 https://a.kvp726.com/20261021/fIxStoVj/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 01
-https://s4.phim1280.tv/20250117/Nolzewno/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 02
-https://s4.phim1280.tv/20250117/GdgXLcSx/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 03
-https://s4.phim1280.tv/20250117/8q9MasFb/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 04
-https://s4.phim1280.tv/20250117/J9LK9pTh/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 05
-https://s4.phim1280.tv/20250117/lXLG85QV/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 06
-https://s4.phim1280.tv/20250117/4wb6OIFy/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 07
-https://s4.phim1280.tv/20250117/YwbNISmp/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 08
-https://s4.phim1280.tv/20250117/fsGlCxfx/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 09
-https://s4.phim1280.tv/20250117/t9POrBBx/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 10
-https://s4.phim1280.tv/20250117/XqoZBSQK/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 11
-https://s4.phim1280.tv/20250117/Zi1nS6k4/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 12
-https://s4.phim1280.tv/20250117/Q8GREwKL/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 13
-https://s4.phim1280.tv/20250117/sfupIJfM/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 14
-https://s4.phim1280.tv/20250117/QvKW6KNN/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 15
-https://s4.phim1280.tv/20250117/2j9YMjQj/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 16
-https://s4.phim1280.tv/20250117/ac0uvI28/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 17
-https://s4.phim1280.tv/20250117/vc5w5aFf/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 18
-https://s4.phim1280.tv/20250117/XoAbgtZ3/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 19
-https://s4.phim1280.tv/20250117/CYLgbU81/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 20
-https://s4.phim1280.tv/20250117/SW96YOHf/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 21
-https://s4.phim1280.tv/20250117/0ZpqDkqD/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 22
-https://s4.phim1280.tv/20250117/CodbhEf9/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 23
-https://s4.phim1280.tv/20250117/ng6ymYfs/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 24
-https://s4.phim1280.tv/20250117/XH7Eujas/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 25
-https://s4.phim1280.tv/20250117/WrgzAebP/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 26
-https://s4.phim1280.tv/20250117/sCRk8hJD/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 27
-https://s4.phim1280.tv/20250117/JRtMR7QV/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 28
-https://s4.phim1280.tv/20250117/XVdavZ6o/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 29
-https://s4.phim1280.tv/20250117/wY1Y3LtY/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 30
-https://s4.phim1280.tv/20250117/cOphbiN8/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 31
-https://s4.phim1280.tv/20250117/fFtiMXCK/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 32
-https://s4.phim1280.tv/20250117/6Z3sP0V3/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 33
-https://s4.phim1280.tv/20250117/BAqwbJ9T/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 34
-https://s4.phim1280.tv/20250117/DegdwRVa/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 35
-https://s4.phim1280.tv/20250117/zXo26LZ5/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 36
-https://s4.phim1280.tv/20250117/m33Os0cU/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 37
-https://s4.phim1280.tv/20250117/u6RjNxJ5/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 38
-https://s4.phim1280.tv/20250117/gtTXJIXv/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 39
-https://s4.phim1280.tv/20250117/eQxyh73k/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 40
-https://s4.phim1280.tv/20250117/VUCp5f6C/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 41
-https://s4.phim1280.tv/20250117/i8pJr7AJ/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 42
-https://s4.phim1280.tv/20250117/gnH8h5Rx/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 43
-https://s4.phim1280.tv/20250117/GnThwUF8/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 44
-https://s4.phim1280.tv/20250117/uOszyZ0P/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 45
-https://s4.phim1280.tv/20250117/n03rcb0l/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 46
-https://s4.phim1280.tv/20250117/neERz0Bu/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 47
-https://s4.phim1280.tv/20250117/VM7eZDS3/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 48
-https://s4.phim1280.tv/20250117/BqFCtr6R/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 49
-https://s4.phim1280.tv/20250117/pvfIKTSi/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 50
-https://s4.phim1280.tv/20250117/FwEtd2pd/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 51
-https://s4.phim1280.tv/20250117/BsICOq4p/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 52
-https://s4.phim1280.tv/20250117/zEn3ZPTJ/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 53
-https://s4.phim1280.tv/20250117/hvrRlf4f/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 54
-https://s4.phim1280.tv/20250117/K2K7xp5P/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 55
-https://s4.phim1280.tv/20250117/reMEHVvg/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 56
-https://s4.phim1280.tv/20250117/fJBavAoQ/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 57
-https://s4.phim1280.tv/20250117/7cX63QwR/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 58
-https://s4.phim1280.tv/20250117/O39atAHr/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 59
-https://s4.phim1280.tv/20250117/uJCUT7KK/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 60
-https://s4.phim1280.tv/20250117/aPKiWezw/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 61
-https://s4.phim1280.tv/20250117/0IiPGxn8/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 62
-https://s4.phim1280.tv/20250117/JE78bRcv/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 63
-https://s4.phim1280.tv/20250117/mcgQcBEW/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 64
-https://s4.phim1280.tv/20250117/tSQjpiC2/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 65
-https://s4.phim1280.tv/20250117/6qXyWuLm/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 66
-https://s4.phim1280.tv/20250117/IksJk6wv/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 67
-https://s4.phim1280.tv/20250117/xSq4fEA2/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 68
-https://s4.phim1280.tv/20250117/2eM3M9Mm/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 69
-https://s4.phim1280.tv/20250117/X2Q03rHV/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 70
-https://s4.phim1280.tv/20250117/13nUn2Fp/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 71
-https://s4.phim1280.tv/20250117/qqVS0Uq1/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 72
-https://s4.phim1280.tv/20250117/ZxSvNnN0/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 73
-https://s5.phim1280.tv/20250225/6lOZBbOL/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 74
-https://s5.phim1280.tv/20250225/to6GKnUx/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 75
-https://s5.phim1280.tv/20250225/CSnCeBx1/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 76
-https://s5.phim1280.tv/20250225/6J9v280L/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 77
-https://s5.phim1280.tv/20250225/MJvHZCz5/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 78
-https://s5.phim1280.tv/20250227/ys5qrYl9/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 79
-https://s4.phim1280.tv/20250306/h4P5OwVi/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 80
-https://s4.phim1280.tv/20250315/xQejCa9Z/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 81
-https://s4.phim1280.tv/20250320/OLFnar94/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 82
-https://s4.phim1280.tv/20250328/iCbVjXLz/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 83
-https://s4.phim1280.tv/20250403/Nd8m1nir/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 84
-https://s4.phim1280.tv/20250410/y5zvsRGe/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 85
-https://s5.phim1280.tv/20250417/Es8bLer9/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 86
-https://s4.phim1280.tv/20250424/I5fa13Ty/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 87
-https://s5.phim1280.tv/20250502/Dnoiv3B5/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 88
-https://s5.phim1280.tv/20250508/cWrF4BgS/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 89
-https://s5.phim1280.tv/20250515/0peYnj43/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 90
-https://s4.phim1280.tv/20250523/HmrjSypZ/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 91
-https://s6.kkphimplayer6.com/20250529/eLDY0AKg/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 92
-https://s6.kkphimplayer6.com/20250605/sn33RjBD/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 93
-https://s6.kkphimplayer6.com/20250614/CwCfBei6/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 94
-https://s6.kkphimplayer6.com/20250620/B7egXuPO/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 95
-https://s6.kkphimplayer6.com/20250627/Cwva0nG0/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 96
-https://s6.kkphimplayer6.com/20250704/Ptc2saGG/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 97
-https://s6.kkphimplayer6.com/20250713/zFpv5Utq/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 98
-https://s6.kkphimplayer6.com/20250717/W8QqgDgs/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 99
-https://s6.kkphimplayer6.com/20250726/TopLKKrz/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 100
-https://s6.kkphimplayer6.com/20250801/Hq3LSuje/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 101
-https://s6.kkphimplayer6.com/20250807/BiWf7phU/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 102
-https://s6.kkphimplayer6.com/20250815/K4iT1q50/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 103
-https://s6.kkphimplayer6.com/20250822/6J8ZBBxL/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 104
-https://s6.kkphimplayer6.com/20250829/Nb0RVeBI/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 105
-https://s6.kkphimplayer6.com/20250905/5Xsx8FPe/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 106
-https://s6.kkphimplayer6.com/20250911/8hwQpwHk/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 107
-https://s6.kkphimplayer6.com/20250918/D8TLqzaI/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 108
-https://s6.kkphimplayer6.com/20250927/An3Ipy5o/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 109
-https://s6.kkphimplayer6.com/20251002/dqWHxLT9/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 110
-https://s6.kkphimplayer6.com/20251009/Awsm87dQ/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 111
-https://s6.kkphimplayer6.com/20251018/TfEVShkk/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 112
-https://s6.kkphimplayer6.com/20251023/VqiRmnbw/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 113
-https://s6.kkphimplayer6.com/20251101/ye7Lnetn/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 114
-https://s6.kkphimplayer6.com/20251107/EHIpWiLB/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 115
-https://s6.kkphimplayer6.com/20251113/hOjBjj6U/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 116
-https://s6.kkphimplayer6.com/20251120/W0EZKIsX/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 117
-https://s6.kkphimplayer6.com/20251127/Qb11TlcF/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 118
-https://s6.kkphimplayer6.com/20251204/98absNuT/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 119
-https://s6.kkphimplayer6.com/20251211/6jUwIINI/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 120
-https://s6.kkphimplayer6.com/20251219/z6zy0H7Y/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 121
-https://s6.kkphimplayer6.com/20251226/TKoCDCCq/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 122
-https://s6.kkphimplayer6.com/20260101/ZruXMUUX/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 123
-https://s6.kkphimplayer6.com/20260108/06cKptBi/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 124
-https://s6.kkphimplayer6.com/20260116/brHoNp1d/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 125
-https://s6.kkphimplayer6.com/20260122/fiFW1lBG/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 126
-https://s6.kkphimplayer6.com/20260130/jejZQDt9/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 127
-https://s6.kkphimplayer6.com/20260206/qmgLIZnb/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 128
-https://s6.kkphimplayer6.com/20260213/z1oCwPMk/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 129
-https://s6.kkphimplayer6.com/20260221/kz2poFy8/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 130
-https://s6.kkphimplayer6.com/20260226/TpzsIQBp/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 131
-https://s6.kkphimplayer6.com/20260306/uELDyDNn/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 132
-https://s6.kkphimplayer6.com/20260312/4vCD6FeO/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 133
-https://s6.kkphimplayer6.com/20260320/dCtKV0F3/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 134
-https://s6.kkphimplayer6.com/20260327/VslOsniw/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 135
-https://s6.kkphimplayer6.com/20260401/8ucZruLC/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 136
-https://s6.kkphimplayer6.com/20260408/NylGbYrk/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 137
-https://s6.kkphimplayer6.com/20260415/VC8XEZyW/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 138
-https://v7.kkphimplayer7.com/20260423/0B94hejx/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 139
-https://v7.kkphimplayer7.com/20260429/ZASZd8gN/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 140
-https://v7.kkphimplayer7.com/20260506/JbWy9gyy/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 141
-https://v7.kkphimplayer7.com/20260513/55paZMDc/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 142
-https://v7.kkphimplayer7.com/20260520/ewbnwNmF/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 143
-https://v7.kkphimplayer7.com/20260527/ljee3t55/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 144
-https://v7.kkphimplayer7.com/20260603/46w5k0cn/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 145
-https://v7.kkphimplayer7.com/20260610/eTJ2JRry/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 146
-https://v7.kkphimplayer7.com/20260617/xSjLqkul/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 147
-https://v7.kkphimplayer7.com/20260624/fULmtKXs/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 148
-https://v7.kkphimplayer7.com/20260701/Cui5Oplm/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 149
-https://v7.kkphimplayer7.com/20260708/EEy3i0CK/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 150
-https://v7.kkphimplayer7.com/20260715/XxRjTZtH/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 151
-https://v7.kkphimplayer7.com/20260722/j8YcxzZp/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 152
-https://v7.kkphimplayer7.com/20260729/qMDXy3Cf/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 153
-https://v7.kkphimplayer7.com/20260805/LU2FrLj5/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 154
-https://v7.kkphimplayer7.com/20260812/oppEQWIX/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 155
-https://v7.kkphimplayer7.com/20260819/5o2VgQL3/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 156
-https://v7.kkphimplayer7.com/20260826/0edDyix0/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 157
-https://v7.kkphimplayer7.com/20260902/FzBFGPQo/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 158
-https://v7.kkphimplayer7.com/20260909/mIi6shlg/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 159
-https://v7.kkphimplayer7.com/20260916/YSuSbppK/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 160
-https://a.kvp726.com/20260923/BDneiCqA/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 161
-https://a.kvp726.com/20260930/iHo7BjcB/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 162
-https://a.kvp726.com/20261007/Gsq1vvtk/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 163
-https://a.kvp726.com/20261014/Bv1dcSyz/index.m3u8
-#EXTINF:-1 group-title="Hài Hước;Sư Huynh À Sư Huynh", Tập Tập 164
-https://a.kvp726.com/20261021/ghozLJMS/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 01
-https://a.kvp726.com/20261008/Sfcj6IU4/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 02
-https://a.kvp726.com/20261008/PYhWZXIG/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 03
-https://a.kvp726.com/20261008/iq1JOMgV/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 04
-https://a.kvp726.com/20261008/Xoe3QV6a/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 05
-https://a.kvp726.com/20261008/VIpERwE1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 06
-https://a.kvp726.com/20261008/uwY2FWoU/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 07
-https://a.kvp726.com/20261009/wbqEAwHk/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 08
-https://a.kvp726.com/20261009/qPqXOIp1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 09
-https://a.kvp726.com/20261010/bnJMJwVM/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 10
-https://a.kvp726.com/20261010/tA9xAlFg/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 11
-https://a.kvp726.com/20261011/2vEaWXU1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 12
-https://a.kvp726.com/20261011/LApuwkRm/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 13
-https://a.kvp726.com/20261012/nnbeBXjZ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 14
-https://a.kvp726.com/20261013/zChC44k2/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 15
-https://a.kvp726.com/20261014/tr65y0rm/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 16
-https://a.kvp726.com/20261015/OlUKUXl1/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 17
-https://a.kvp726.com/20261017/PfHh2OCB/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 18
-https://a.kvp726.com/20261017/9SLZnoGc/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 19
-https://a.kvp726.com/20261018/yuPp92ci/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 20
-https://a.kvp726.com/20261019/uACZIVzV/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 21
-https://a.kvp726.com/20261020/PfD6cM9n/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Sở Ly", Tập Tập 22
-https://a.kvp726.com/20261021/NyLUt1JN/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 01
-https://a.kvp726.com/20260930/5mAkUGLX/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 02
-https://a.kvp726.com/20260930/SmuVWEdE/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 03
-https://a.kvp726.com/20260930/iH5oaMSu/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 04
-https://a.kvp726.com/20261001/LyIprLUa/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 05
-https://a.kvp726.com/20261007/rV47NblI/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 06
-https://a.kvp726.com/20261008/Dt4XWoot/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 07
-https://a.kvp726.com/20261014/v90t2JZI/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 08
-https://a.kvp726.com/20261015/yqZSOLjE/index.m3u8
-#EXTINF:-1 group-title="Hoạt Hình;Người Giữ Mộ Đại Hạ", Tập Tập 09
-https://a.kvp726.com/20261021/MTj7rl7t/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 01
-https://a.kvp726.com/20261012/569x0bWN/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 02
-https://a.kvp726.com/20261012/vicUv73G/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 03
-https://a.kvp726.com/20261012/9Qb4VloN/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 04
-https://a.kvp726.com/20261013/7b8qVmvR/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 05
-https://a.kvp726.com/20261013/vdg47y2s/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 06
-https://a.kvp726.com/20261014/Jq0pUKfy/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 07
-https://a.kvp726.com/20261014/2XJRCm65/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 08
-https://a.kvp726.com/20261015/yuz3b77L/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 09
-https://a.kvp726.com/20261015/7AGAEG3O/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 10
-https://a.kvp726.com/20261018/gGy0kEYl/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 11
-https://a.kvp726.com/20261018/ksUNozgc/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 12
-https://a.kvp726.com/20261018/baeX1FJy/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 13
-https://a.kvp726.com/20261020/v8I7ca2i/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 14
-https://a.kvp726.com/20261020/ju0G3D4C/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 15
-https://a.kvp726.com/20261020/IUdcYcSG/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 16
-https://a.kvp726.com/20261020/RjoKMwFw/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 17
-https://a.kvp726.com/20261021/4ynsaD64/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 18
-https://a.kvp726.com/20261021/xvx6PuKA/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 19
-https://a.kvp726.com/20261021/CzjFgK4E/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 01
-https://a.kvp726.com/20261012/a2qfTugc/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 02
-https://a.kvp726.com/20261012/jLW7ITIQ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 03
-https://a.kvp726.com/20261012/zSZOZdSq/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 04
-https://a.kvp726.com/20261013/ctMP5v1E/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 05
-https://a.kvp726.com/20261013/TkdAl3ty/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 06
-https://a.kvp726.com/20261014/ubJ4E8C7/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 07
-https://a.kvp726.com/20261014/6d2ZMaYZ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 08
-https://a.kvp726.com/20261015/IoYi9uKg/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 09
-https://a.kvp726.com/20261015/v3qaSmeD/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 10
-https://a.kvp726.com/20261018/O0xSIwbD/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 11
-https://a.kvp726.com/20261018/OTDnpOMs/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 12
-https://a.kvp726.com/20261018/TT47YmCo/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 13
-https://a.kvp726.com/20261020/QRTZzl63/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 14
-https://a.kvp726.com/20261020/II5wbUcQ/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 15
-https://a.kvp726.com/20261020/pyPWt68K/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 16
-https://a.kvp726.com/20261020/Vlo6FDcj/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 17
-https://a.kvp726.com/20261021/rRVioo0F/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngọc Điệm Thu", Tập Tập 18
-https://a.kvp726.com/20261021/c2OFEwW7/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 01
-https://a.kvp726.com/20261017/rUkpXbvv/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 02
-https://a.kvp726.com/20261017/JiHz1M2V/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 03
-https://a.kvp726.com/20261017/iFMNLgHT/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 04
-https://a.kvp726.com/20261017/f6J7BxP3/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 05
-https://a.kvp726.com/20261017/kuHm8mTb/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 06
-https://a.kvp726.com/20261017/up9PmtKm/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 07
-https://a.kvp726.com/20261017/jbEYhZ4F/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 08
-https://a.kvp726.com/20261017/Pn18Dyqg/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 09
-https://a.kvp726.com/20261018/HlMJ6RXx/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 10
-https://a.kvp726.com/20261018/jtgUzLFN/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 11
-https://a.kvp726.com/20261019/gIPXCPFX/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 12
-https://a.kvp726.com/20261019/a3Na1aXi/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 13
-https://a.kvp726.com/20261020/Rijh0Hmw/index.m3u8
-#EXTINF:-1 group-title="Chính Kịch;Ngày Bạn Thân Giàu Có Chẳng Còn Xa", Tập Tập 14
-https://a.kvp726.com/20261021/gCUJO5d1/index.m3u8
